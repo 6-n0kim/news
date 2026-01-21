@@ -24,7 +24,10 @@ def load_state() -> Dict[str, Any]:
     if not os.path.exists(STATE_PATH):
         return {"seen_ids": []}
     with open(STATE_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+        try:
+            return json.load(f)
+        except json.JSONDecodeError:
+            return {"seen_ids": []}
 
 
 def save_state(state: Dict[str, Any]) -> None:
@@ -127,9 +130,27 @@ def fetch_new_items(rss_urls: List[str], max_per_feed: int = 30) -> List[RssItem
 
     # seen 업데이트 (너무 커지면 최근 N개만 유지)
     if new_items:
+        if "items" not in state:
+            state["items"] = []
+
         for it in new_items:
             seen.add(it.id)
-        state["seen_ids"] = list(seen)[-3000:]  # 필요하면 조절
+            state["items"].append({
+                "id": it.id,
+                "title": it.title,
+                "content": it.content_html
+            })
+        
+        state["seen_ids"] = list(seen)[-3000:]
+        # items 리스트도 너무 커지지 않게 관리 (최근 100개)
+        state["items"] = state["items"][-100:]
+
+
+        # TODO: 1. state에 게시일자, 카테고리, 제목, 본문을 넣는걸로 수정
+        # TODO: 2. state를 LLM을 이용해서 요약 예측 값을 만들고 state에 추가
+        # TODO: 3. state의 게시일자, 카테고리, 요약, 예측 값을 DB에 저장
+        # TODO: 4. DB에 저장된 값을 이용해서 동영상 생성
+        
         save_state(state)
 
     return new_items
