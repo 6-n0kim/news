@@ -33,7 +33,7 @@ jobs:
 
       - name: Run
         run: |
-          python app/main.py
+          python -m app.main
 
       - name: Commit state if changed
         run: |
