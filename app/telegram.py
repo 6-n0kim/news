@@ -5,7 +5,8 @@ import threading
 
 dotenv.load_dotenv()
 
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+# CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+CHAT_ID = os.getenv("TELEGRAM_GROUP_ID")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 
