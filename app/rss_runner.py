@@ -91,7 +91,12 @@ def _get_published(e) -> str:
     return ""
 
 
-def fetch_new_items(rss_urls: List[str], max_per_feed: int = 30) -> List[RssItem]:
+def fetch_new_items(rss_urls: List[str], max_per_feed: int = 30) -> tuple[List[RssItem], Dict[str, Any]]:
+    """
+    신규 RSS 항목을 수집하고 state를 갱신하되 저장은 하지 않는다.
+    호출 측에서 분석/발송 후 save_state(state)를 호출해야 한다.
+    반환: (new_items, state)
+    """
     state = load_state()
     seen = set(state.get("seen_ids", []))
 
@@ -145,12 +150,4 @@ def fetch_new_items(rss_urls: List[str], max_per_feed: int = 30) -> List[RssItem
         # items 리스트도 너무 커지지 않게 관리 (최근 100개)
         state["items"] = state["items"][-100:]
 
-
-        # TODO: 1. state에 게시일자, 카테고리, 제목, 본문을 넣는걸로 수정
-        # TODO: 2. state를 LLM을 이용해서 요약 예측 값을 만들고 state에 추가
-        # TODO: 3. state의 게시일자, 카테고리, 요약, 예측 값을 DB에 저장
-        # TODO: 4. DB에 저장된 값을 이용해서 동영상 생성
-        
-        save_state(state)
-
-    return new_items
+    return new_items, state
