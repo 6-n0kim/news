@@ -1,423 +1,259 @@
 {
   "seen_ids": [
-    "https://www.etoday.co.kr/news/view/2603174",
-    "https://www.etoday.co.kr/news/view/2602948",
-    "https://www.etoday.co.kr/news/view/2603295",
-    "https://www.etoday.co.kr/news/view/2603024",
-    "https://www.etoday.co.kr/news/view/2603320",
-    "https://www.etoday.co.kr/news/view/2602976",
-    "https://www.etoday.co.kr/news/view/2603144",
-    "https://www.etoday.co.kr/news/view/2603117",
-    "https://www.etoday.co.kr/news/view/2603079",
-    "MYH20260715053754ccA",
-    "https://www.etoday.co.kr/news/view/2603001",
-    "https://www.etoday.co.kr/news/view/2603650",
-    "https://www.etoday.co.kr/news/view/2603173",
-    "https://www.etoday.co.kr/news/view/2603058",
-    "MYH20260713210724Ll8",
-    "MYH20260713160846ZIo",
-    "https://www.etoday.co.kr/news/view/2603322",
-    "MYH20260715051307sqC",
-    "AKR20260713142329wK6",
-    "AKR20260713142015ESo",
-    "AKR20260713113302lxW",
-    "https://www.etoday.co.kr/news/view/2603047",
-    "https://www.etoday.co.kr/news/view/2603207",
-    "MYH20260713224028M7p",
-    "https://www.etoday.co.kr/news/view/2603111",
-    "MYH20260713193015EKj",
-    "MYH20260714004157Czf",
-    "https://www.etoday.co.kr/news/view/2602716",
-    "https://www.etoday.co.kr/news/view/2603183",
-    "AKR20260713150737PYN",
-    "https://www.etoday.co.kr/news/view/2603188",
-    "https://www.etoday.co.kr/news/view/2603121",
-    "https://www.etoday.co.kr/news/view/2603051",
-    "MYH20260715051503gRK",
-    "MYH20260715050946OjN",
-    "https://www.etoday.co.kr/news/view/2603341",
-    "https://www.etoday.co.kr/news/view/2603780",
-    "https://www.etoday.co.kr/news/view/2603195",
-    "MYH20260715065641Pvs",
-    "AKR20260713161903ByW",
-    "https://www.etoday.co.kr/news/view/2603301",
-    "https://www.etoday.co.kr/news/view/2603525",
-    "https://www.etoday.co.kr/news/view/2603300",
-    "MYH20260713231134u7h",
-    "https://www.etoday.co.kr/news/view/2603151",
-    "MYH20260715055039ptT",
-    "MYH20260714195509vEd",
-    "MYH20260713193906yI8",
-    "MYH20260714065550Z0q",
-    "https://www.etoday.co.kr/news/view/2603098",
-    "https://www.etoday.co.kr/news/view/2603299",
-    "https://www.etoday.co.kr/news/view/2603309",
-    "MYH20260714083316c0P",
-    "https://www.etoday.co.kr/news/view/2603603",
-    "https://www.etoday.co.kr/news/view/2603143",
-    "MYH20260715060536v2S",
-    "https://www.etoday.co.kr/news/view/2603313",
-    "https://www.etoday.co.kr/news/view/2602999",
-    "MYH202607150603354WY",
-    "https://www.etoday.co.kr/news/view/2603785",
-    "AKR20260714085018yqn",
-    "MYH20260714221250HTm",
-    "https://www.etoday.co.kr/news/view/2603178",
-    "https://www.etoday.co.kr/news/view/2603324",
-    "MYH20260714072853Fb4",
-    "https://www.etoday.co.kr/news/view/2602700",
-    "MYH20260714204741lWR",
-    "MYH20260713161608oJP",
-    "MYH202607142251187RO",
-    "MYH20260715055621V9w",
-    "https://www.etoday.co.kr/news/view/2603163",
-    "https://www.etoday.co.kr/news/view/2603620",
-    "MYH20260714053826UVH",
-    "AKR2026071314193724C",
     "https://www.etoday.co.kr/news/view/2603336",
-    "https://www.etoday.co.kr/news/view/2603012",
-    "MYH20260714050853x1u",
-    "https://www.etoday.co.kr/news/view/2603141",
-    "https://www.etoday.co.kr/news/view/2603352",
-    "MYH20260715064442TEx",
-    "https://www.etoday.co.kr/news/view/2602970",
-    "AKR20260713151111HSb",
-    "MYH20260714053521FCg",
-    "MYH20260713153104InO",
-    "AKR20260713151315YVz",
-    "https://www.etoday.co.kr/news/view/2603073",
-    "https://www.etoday.co.kr/news/view/2603306",
-    "AKR20260713140830NwT",
-    "AKR202607131514157hu",
-    "https://www.etoday.co.kr/news/view/2603303",
-    "MYH20260715060730M4i",
-    "MYH20260715054017vWq",
-    "https://www.etoday.co.kr/news/view/2603172",
-    "https://www.etoday.co.kr/news/view/2603789",
-    "AKR20260713142618G3r",
-    "MYH20260714052623cUV",
-    "MYH20260714225436jAA",
-    "MYH20260715072731K0Y",
-    "MYH20260713152505pZM",
-    "https://www.etoday.co.kr/news/view/2602746",
-    "https://www.etoday.co.kr/news/view/2603138",
-    "MYH20260714054217bMC",
-    "https://www.etoday.co.kr/news/view/2603148",
-    "MYH20260714054004iKd",
-    "MYH202607150610097Tv",
-    "MYH20260714053015Q5f",
-    "MYH20260714195330MeT",
-    "https://www.etoday.co.kr/news/view/2603536",
-    "MYH20260713160801Drf",
-    "https://www.etoday.co.kr/news/view/2603020",
-    "AKR20260713102611uAT",
-    "https://www.etoday.co.kr/news/view/2603783",
-    "MYH20260715004623ozV",
-    "MYH20260714205835Geo",
-    "AKR20260713143304yE7",
-    "https://www.etoday.co.kr/news/view/2603070",
-    "AKR20260713143514NcL",
-    "MYH202607150559347AA",
-    "MYH202607140536144Ez",
-    "AKR20260713192427gbm",
-    "AKR20260713141328xWW",
-    "MYH20260713143825ur5",
-    "MYH20260713141743R49",
-    "https://www.etoday.co.kr/news/view/2603297",
-    "MYH202607142254037Nc",
-    "MYH20260714051852bQ2",
-    "https://www.etoday.co.kr/news/view/2602657",
-    "MYH20260715053657HZu",
-    "https://www.etoday.co.kr/news/view/2603532",
-    "MYH20260714210708x5k",
     "https://www.etoday.co.kr/news/view/2603347",
-    "MYH20260713151659xGF",
-    "https://www.etoday.co.kr/news/view/2603634",
-    "https://www.etoday.co.kr/news/view/2603029",
-    "https://www.etoday.co.kr/news/view/2603162",
-    "MYH20260714052843P9T",
-    "AKR20260713204529ek1",
-    "MYH20260713211603ytF",
-    "https://www.etoday.co.kr/news/view/2603206",
-    "AKR20260713143351oST",
-    "https://www.etoday.co.kr/news/view/2603318",
-    "https://www.etoday.co.kr/news/view/2603177",
-    "MYH202607131023469jr",
-    "https://www.etoday.co.kr/news/view/2603788",
-    "https://www.etoday.co.kr/news/view/2603013",
-    "https://www.etoday.co.kr/news/view/2603126",
-    "MYH20260713141903Yzc",
-    "https://www.etoday.co.kr/news/view/2603153",
-    "https://www.etoday.co.kr/news/view/2603095",
-    "MYH20260714053736K5d",
-    "https://www.etoday.co.kr/news/view/2603305",
-    "https://www.etoday.co.kr/news/view/2602167",
-    "AKR20260713153039rFS",
-    "https://www.etoday.co.kr/news/view/2603302",
-    "MYH202607132201082gW",
-    "AKR20260713144515M4T",
-    "https://www.etoday.co.kr/news/view/2603215",
-    "https://www.etoday.co.kr/news/view/2603312",
-    "https://www.etoday.co.kr/news/view/2603034",
-    "https://www.etoday.co.kr/news/view/2603086",
-    "https://www.etoday.co.kr/news/view/2603182",
-    "MYH20260714051510tGP",
-    "MYH20260714053105yDu",
-    "https://www.etoday.co.kr/news/view/2603077",
-    "https://www.etoday.co.kr/news/view/2603039",
-    "AKR20260713143433q9l",
-    "https://www.etoday.co.kr/news/view/2603084",
-    "https://www.etoday.co.kr/news/view/2603692",
-    "https://www.etoday.co.kr/news/view/2603790",
-    "AKR20260715000317FwA",
-    "MYH20260715060920q5x",
-    "https://www.etoday.co.kr/news/view/2603233",
-    "MYH20260714052341zD9",
-    "https://www.etoday.co.kr/news/view/2603637",
-    "https://www.etoday.co.kr/news/view/2603097",
-    "https://www.etoday.co.kr/news/view/2603118",
-    "AKR20260713103929wnK",
-    "MYH20260714004325wYH",
-    "https://www.etoday.co.kr/news/view/2603130",
-    "MYH20260714211305e1E",
-    "AKR20260713142129XvF",
-    "MYH20260715054910ef5",
-    "MYH20260713225800khz",
-    "MYH202607131521165CV",
-    "https://www.etoday.co.kr/news/view/2603310",
-    "MYH20260715055000suB",
-    "AKR20260714143719FTG",
-    "MYH20260713193738Nc1",
-    "https://www.etoday.co.kr/news/view/2603351",
-    "AKR202607131544042iG",
-    "MYH20260713161127LTm",
-    "https://www.etoday.co.kr/news/view/2603155",
-    "https://www.etoday.co.kr/news/view/2603063",
-    "AKR20260713143101cef",
-    "MYH20260715064235aKz",
-    "https://www.etoday.co.kr/news/view/2602920",
-    "AKR20260713152616Swv",
-    "https://www.etoday.co.kr/news/view/2603631",
-    "https://www.etoday.co.kr/news/view/2603186",
+    "https://www.etoday.co.kr/news/view/2602700",
     "https://www.etoday.co.kr/news/view/2603331",
-    "MYH202607131306026BE",
+    "MYH20260716065530g7F",
+    "https://www.etoday.co.kr/news/view/2603634",
+    "MYH20260714053105yDu",
+    "https://www.etoday.co.kr/news/view/2603126",
+    "https://www.etoday.co.kr/news/view/2603195",
+    "https://www.etoday.co.kr/news/view/2603186",
+    "https://www.etoday.co.kr/news/view/2603086",
+    "AKR20260713143101cef",
+    "https://www.etoday.co.kr/news/view/2603063",
+    "https://www.etoday.co.kr/news/view/2602167",
+    "MYH20260716054704ljp",
+    "MYH20260713143825ur5",
+    "https://www.etoday.co.kr/news/view/2603095",
+    "https://www.etoday.co.kr/news/view/2603603",
+    "MYH20260714052843P9T",
+    "AKR20260715214059y2J",
+    "https://www.etoday.co.kr/news/view/2603215",
+    "MYH202607131023469jr",
     "https://www.etoday.co.kr/news/view/2603308",
-    "MYH20260713201320SEg",
-    "MYH20260714054626yNO",
-    "https://www.etoday.co.kr/news/view/2603298",
-    "https://www.etoday.co.kr/news/view/2603096",
-    "https://www.etoday.co.kr/news/view/2603052",
+    "MYH20260714072853Fb4",
+    "MYH20260714051852bQ2",
+    "https://www.etoday.co.kr/news/view/2603780",
+    "AKR20260713143304yE7",
+    "MYH20260714050853x1u",
+    "https://www.etoday.co.kr/news/view/2603020",
+    "https://www.etoday.co.kr/news/view/2603163",
+    "MYH20260715220625mGA",
+    "https://www.etoday.co.kr/news/view/2603013",
+    "MYH20260713161127LTm",
+    "AKR20260713152616Swv",
+    "AKR20260713192427gbm",
+    "https://www.etoday.co.kr/news/view/2603620",
+    "AKR20260713151315YVz",
+    "MYH20260713193738Nc1",
+    "MYH20260715231745ILa",
+    "https://www.etoday.co.kr/news/view/2603174",
+    "https://www.etoday.co.kr/news/view/2603183",
+    "https://www.etoday.co.kr/news/view/2603692",
+    "https://www.etoday.co.kr/news/view/2603138",
+    "https://www.etoday.co.kr/news/view/2602976",
+    "https://www.etoday.co.kr/news/view/2603051",
+    "MYH20260714065550Z0q",
+    "https://www.etoday.co.kr/news/view/2603295",
+    "https://www.etoday.co.kr/news/view/2603313",
+    "MYH20260714054217bMC",
+    "MYH20260713211603ytF",
+    "https://www.etoday.co.kr/news/view/2603631",
+    "AKR20260715210320hYe",
+    "https://www.etoday.co.kr/news/view/2604134",
+    "MYH20260715215332Xbv",
+    "MYH20260716051815Zev",
+    "MYH20260716054538tdm",
+    "MYH20260713224028M7p",
+    "MYH20260715215720IJ0",
+    "https://www.etoday.co.kr/news/view/2604137",
+    "https://www.etoday.co.kr/news/view/2603141",
+    "MYH20260714053015Q5f",
+    "MYH20260715060920q5x",
+    "https://www.etoday.co.kr/news/view/2603637",
+    "https://www.etoday.co.kr/news/view/2603318",
     "https://www.etoday.co.kr/news/view/2603176",
     "https://www.etoday.co.kr/news/view/2603065",
+    "MYH20260715185824yz8",
+    "MYH20260713193015EKj",
+    "MYH20260716051627tJL",
+    "https://www.etoday.co.kr/news/view/2604266",
+    "MYH202607132201082gW",
+    "MYH20260714052623cUV",
+    "MYH20260713225800khz",
+    "https://www.etoday.co.kr/news/view/2603324",
+    "AKR20260713143351oST",
+    "MYH20260716051536GyN",
+    "https://www.etoday.co.kr/news/view/2604078",
+    "https://www.etoday.co.kr/news/view/2603153",
+    "MYH202607150610097Tv",
+    "MYH20260715050946OjN",
+    "MYH202607131521165CV",
+    "MYH202607160526051DU",
+    "MYH20260715231554yzs",
+    "https://www.etoday.co.kr/news/view/2602716",
+    "MYH20260713231134u7h",
+    "https://www.etoday.co.kr/news/view/2603148",
+    "MYH20260713160846ZIo",
+    "MYH20260714004157Czf",
+    "https://www.etoday.co.kr/news/view/2603789",
+    "https://www.etoday.co.kr/news/view/2603024",
+    "AKR20260713141328xWW",
+    "MYH20260715054910ef5",
+    "MYH20260715231202aLB",
+    "https://www.etoday.co.kr/news/view/2603320",
+    "https://www.etoday.co.kr/news/view/2603299",
+    "MYH20260715060536v2S",
+    "MYH20260713201320SEg",
+    "MYH20260714053736K5d",
+    "https://www.etoday.co.kr/news/view/2604143",
+    "MYH20260714053521FCg",
+    "https://www.etoday.co.kr/news/view/2603650",
+    "https://www.etoday.co.kr/news/view/2603790",
+    "MYH20260715055621V9w",
+    "MYH20260715230141rqy",
+    "AKR2026071523015678F",
+    "https://www.etoday.co.kr/news/view/2604141",
+    "https://www.etoday.co.kr/news/view/2603058",
+    "MYH20260714053826UVH",
+    "MYH20260715004623ozV",
+    "https://www.etoday.co.kr/news/view/2603341",
+    "MYH20260716052218QCE",
+    "https://www.etoday.co.kr/news/view/2603785",
+    "AKR20260715000317FwA",
+    "https://www.etoday.co.kr/news/view/2602999",
+    "https://www.etoday.co.kr/news/view/2603207",
+    "MYH20260713210724Ll8",
+    "https://www.etoday.co.kr/news/view/2603188",
+    "MYH20260713160801Drf",
+    "MYH20260713141903Yzc",
+    "https://www.etoday.co.kr/news/view/2603177",
+    "AKR20260713144515M4T",
+    "https://www.etoday.co.kr/news/view/2603047",
+    "MYH20260715054017vWq",
+    "MYH20260715205559br1",
+    "AKR20260713150737PYN",
+    "AKR20260713113302lxW",
+    "https://www.etoday.co.kr/news/view/2603233",
+    "AKR20260714143719FTG",
+    "MYH20260715051307sqC",
+    "https://www.etoday.co.kr/news/view/2603302",
+    "MYH202607140536144Ez",
+    "https://www.etoday.co.kr/news/view/2603029",
+    "MYH20260714052341zD9",
+    "https://www.etoday.co.kr/news/view/2603312",
+    "MYH20260715230313g5l",
+    "https://www.etoday.co.kr/news/view/2603079",
+    "AKR20260713142015ESo",
+    "MYH20260715205519sVg",
+    "https://www.etoday.co.kr/news/view/2603144",
+    "https://www.etoday.co.kr/news/view/2603121",
+    "AKR20260713143514NcL",
+    "MYH20260714221250HTm",
+    "https://www.etoday.co.kr/news/view/2603096",
+    "https://www.etoday.co.kr/news/view/2603155",
+    "AKR20260714085018yqn",
+    "MYH20260713141743R49",
+    "MYH20260715060730M4i",
+    "MYH20260713151659xGF",
+    "MYH20260714051510tGP",
+    "MYH20260715064442TEx",
+    "AKR20260713153039rFS",
+    "MYH20260714195509vEd",
+    "MYH20260714054004iKd",
+    "MYH20260715053754ccA",
+    "MYH202607131306026BE",
+    "https://www.etoday.co.kr/news/view/2602970",
+    "https://www.etoday.co.kr/news/view/2603300",
+    "MYH202607150559347AA",
+    "https://www.etoday.co.kr/news/view/2603117",
+    "https://www.etoday.co.kr/news/view/2603206",
+    "MYH20260714210708x5k",
+    "https://www.etoday.co.kr/news/view/2602948",
+    "https://www.etoday.co.kr/news/view/2603077",
+    "MYH20260715064235aKz",
+    "MYH20260713153104InO",
+    "https://www.etoday.co.kr/news/view/2603052",
+    "MYH20260715225008RMt",
+    "MYH20260715065641Pvs",
+    "MYH202607152147500kx",
+    "AKR20260713142329wK6",
+    "https://www.etoday.co.kr/news/view/2603309",
+    "MYH20260715051503gRK",
+    "https://www.etoday.co.kr/news/view/2603084",
+    "AKR20260716063541yn3",
+    "AKR20260713142618G3r",
+    "https://www.etoday.co.kr/news/view/2603012",
+    "https://www.etoday.co.kr/news/view/2603173",
+    "AKR20260713103929wnK",
+    "AKR20260715174017xe9",
+    "MYH20260715053657HZu",
+    "https://www.etoday.co.kr/news/view/2603001",
+    "MYH202607142254037Nc",
+    "https://www.etoday.co.kr/news/view/2603162",
+    "https://www.etoday.co.kr/news/view/2603352",
+    "AKR20260716063525tz9",
+    "https://www.etoday.co.kr/news/view/2603322",
+    "MYH20260713193906yI8",
+    "MYH202607150603354WY",
+    "AKR202607131514157hu",
+    "https://www.etoday.co.kr/news/view/2603070",
+    "AKR20260713204529ek1",
+    "https://www.etoday.co.kr/news/view/2603130",
+    "AKR20260713143433q9l",
+    "AKR20260713140830NwT",
+    "https://www.etoday.co.kr/news/view/2603097",
+    "https://www.etoday.co.kr/news/view/2603305",
+    "AKR202607131544042iG",
+    "MYH20260715055000suB",
+    "https://www.etoday.co.kr/news/view/2603303",
+    "MYH20260716073008MvC",
+    "MYH20260713152505pZM",
+    "AKR20260715180916nGL",
+    "https://www.etoday.co.kr/news/view/2603301",
+    "MYH202607160521101Ho",
+    "AKR20260713151111HSb",
+    "https://www.etoday.co.kr/news/view/2603306",
+    "https://www.etoday.co.kr/news/view/2603034",
+    "https://www.etoday.co.kr/news/view/2603151",
+    "MYH202607142251187RO",
+    "AKR20260713161903ByW",
+    "https://www.etoday.co.kr/news/view/2603297",
+    "MYH20260714211305e1E",
+    "https://www.etoday.co.kr/news/view/2603098",
+    "https://www.etoday.co.kr/news/view/2603073",
+    "https://www.etoday.co.kr/news/view/2602746",
+    "https://www.etoday.co.kr/news/view/2604268",
+    "MYH20260714195330MeT",
+    "https://www.etoday.co.kr/news/view/2603298",
+    "AKR2026071314193724C",
+    "https://www.etoday.co.kr/news/view/2602920",
+    "https://www.etoday.co.kr/news/view/2603783",
+    "https://www.etoday.co.kr/news/view/2603351",
+    "https://www.etoday.co.kr/news/view/2603536",
+    "MYH20260714054626yNO",
+    "AKR20260715224106vuC",
+    "https://www.etoday.co.kr/news/view/2603525",
+    "https://www.etoday.co.kr/news/view/2603143",
+    "https://www.etoday.co.kr/news/view/2603111",
+    "https://www.etoday.co.kr/news/view/2603172",
+    "https://www.etoday.co.kr/news/view/2602657",
+    "AKR20260713102611uAT",
+    "https://www.etoday.co.kr/news/view/2604265",
+    "MYH20260713110943BZv",
+    "MYH20260714204741lWR",
+    "AKR20260713142129XvF",
+    "MYH20260716052000kXO",
+    "MYH20260715055039ptT",
+    "MYH20260714205835Geo",
+    "MYH20260715072731K0Y",
+    "https://www.etoday.co.kr/news/view/2603039",
+    "MYH20260713161608oJP",
+    "https://www.etoday.co.kr/news/view/2603788",
+    "https://www.etoday.co.kr/news/view/2603182",
+    "AKR20260715210202WRd",
+    "MYH20260714225436jAA",
+    "MYH20260714083316c0P",
+    "https://www.etoday.co.kr/news/view/2603310",
+    "https://www.etoday.co.kr/news/view/2603532",
     "https://www.etoday.co.kr/news/view/2602993",
-    "MYH20260713110943BZv"
+    "https://www.etoday.co.kr/news/view/2603178",
+    "https://www.etoday.co.kr/news/view/2603118",
+    "MYH20260714004325wYH"
   ],
   "items": [
-    {
-      "id": "MYH20260713225800khz",
-      "title": "4대 은행 대출 우체국서 신청…20곳 시범운영",
-      "content": "디지털 취약계층과 금융서비스 소외 지역의 편리성을 높이기 위해 4대 시중은행 대출을 우체국에서 신청할 수 있도록 하는 시범 사업이 실시됩니다.\n\n우정사업본부는 국민, 신한, 우리, 하나은행 그리고 금융결제원은 이 같은 내용의 업무 협약을 체결했다고 오늘(13일) 밝혔습니다.\n\n시범 운영은 오는 20일부터 시작되고, 시중 은행이 없는 군 단위 지역 중 20개 총괄우체국이 대상입니다.\n\n대상 상품은 은행별 2개로, 모두 8개 신용대출 상품이 위탁 판매됩니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)"
-    },
-    {
-      "id": "MYH202607132201082gW",
-      "title": "호르무즈 긴장에 유가 또 '들썩'…\"9월 이후 관건\"",
-      "content": "[앵커]\n\n호르무즈 해협을 둘러싼 미국과 이란의 물리적 충돌이 재점화하면서 고유가 우려도 다시 고개를 들고 있습니다.\n\n사태가 장기화할 경우 유가는 물론, 물가 동반 상승과 실물 경제 타격 우려도 제기되는데요. 정부도 원유 수급 상황에 대한 긴급 점검에 들어갔습니다.\n\n최지숙 기자입니다.\n\n[기자]\n\n중동 정세가 얼어붙자, 국제유가는 또 한 번 들썩였습니다.\n\n미국과 이란이 호르무즈 통제권을 두고 다시 충돌하면서 국제유가는 단숨에 3% 이상 급등했습니다.\n\n한때 리터(L)당 2천원을 넘어섰던 국내 기름값은 미국·이란 간 종전 MOU 체결과 정부의 7차 석유 최고가격제 시행 후 하향세를 보였지만 호르무즈 해협 긴장 고조로 시장의 불안감은 다시 커지고 있습니다.\n\n종전 MOU 이전 상황으로 회귀할 가능성도 배제할 수 없다는 판단 아래, 정부는 관련 업계와 '원유 수급상황 긴급 점검 회의'를 개최했습니다.\n\n&lt;문신학 / 산업통상부 차관&gt; \"긴박한 상황이 정도는 낮아질망정 완전히 해결되지 않고 상시화, 구조화될 가능성을 배제하지 못할 것 같습니다. 원유 수급선 다변화라든지 하는 것들에 대해서 차질 없이, 절대 흔들림없이 이행할 필요가 있다…\"\n\n업계와 정부에 따르면 원유 비축분은 전년 대비 100%를 초과했고, 나프타 역시 충분히 확보한 상태여서 당장 이번 달과 다음 달 단기적 수급 상황은 안정적일 거란 전망입니다.\n\n다만 추가 계약이 필요한 9월 이후부터가 관건입니다.\n\n특히 우려되는 대목은 고환율·고금리·고물가 현상이 고착화된 상황에서 유가가 다시 오를 경우 물가 폭등을 견인할 수 있다는 점입니다.\n\n오를대로 오른 물가에 폭염과 장마 등 기상 상황이 더해지며 밥상 물가는 이미 한계 상태입니다.\n\n미국, 유럽, 일본 등 주요 선진국 수준마저 웃돌고 있습니다.\n\n&lt;한성숙 / 국무총리(지난 10일)&gt;  \"비가 오고 폭염 오고 태풍 오고 이제 막 여름철 걱정되는 상황 속에 있으니까…물가만큼은 제대로 잡고갈 수 있도록 정말 총력을 다해야 할 것 같습니다.\"\n\n정부는 도미노 충격에 따른 경기 침체를 방지하기 위해, 복합적 경제 리스크에 대한 통합 대응 체계를 구축한다는 방침입니다.\n\n연합뉴스TV 최지숙입니다.\n\n[영상취재 문원철]\n\n[영상편집 이유리]\n\n[그래픽 민승환]\n\n#물가 #미국 #유가 #이란 #중동\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지숙(js173@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260713211603ytF",
-      "title": "전국 매장 '셧다운'…홈플러스, 결국 파산 수순 밟나",
-      "content": "[앵커]\n\n홈플러스가 결국 오늘(13일)부터 전국 모든 점포의 영업을 중단했습니다.\n\n회생 절차가 폐지된 이후 운영 자금마저 바닥나 정상적인 영업을 이어갈 수 없다는 건데요.\n\n갑작스러운 휴업에 현장에서는 혼란도 이어졌습니다.\n\n김도헌 기자입니다.\n\n[기자]\n\n서울 강서구에 위치한 홈플러스 본점.\n\n매장 입구가 쇼핑카트로 가로막혀 있고, 매대 곳곳은 텅 비어 있습니다.\n\n홈플러스가 전국 모든 대형마트의 운영을 임시 중단하기로 하면서 이곳 본점도 결국 문을 닫았습니다.\n\n지난달 전국 매장 3곳 중 1곳 이상을 폐점한 홈플러스는 점포 수를 67개로 줄여 운영해 왔지만, 자금이 모두 바닥나면서 결국 셧다운이 현실화된 겁니다.\n\n실낱같은 희망을 안고 버티던 직원들은 출근하자마자 퇴근하라는 통보를 받았습니다.\n\n&lt;홈플러스 직원&gt; \"출근해서 일을 하고 있었는데 갑자기 휴점 공지가 내려온 거예요. 우리 이제 어떻게 해야 되냐…\"\n\n기습적인 영업 중단에 마트를 찾은 소비자들도 발길을 돌려야 했습니다.\n\n&lt;정성도 / 서울 강서구&gt; \"마트에 수박을 사러 왔는데… 문을 닫아서 그냥 섭섭한 마음으로 돌아갑니다.\"\n\n홈플러스 문화센터도 멈추면서 현장에서는 혼란이 빚어졌습니다.\n\n&lt;안소연 / 서울 강서구&gt; \"문화센터 이제 안 한다고 해서 환불받으러 왔어요. 언제 다시 할지 모르니까 참고하라고 문자를 받아서…\"\n\n지난해 기업 회생 절차에 들어간 홈플러스는 줄곧 자금난에 시달려 왔는데, 상품 공급에 차질이 빚어지면서 일부 매장에서는 빈 냉장고가 냄비로 채워지기도 했습니다.\n\n1년 넘게 공회전이 이어지자, 서울회생법원은 지난 3일 홈플러스 회생 절차 폐지를 결정했습니다.\n\n지난주에는 전 품목 50% 할인도 열렸는데, 사실상 재고 정리를 위한 '땡처리' 행사였다는 관측도 나옵니다.\n\n회생 절차 폐지 결정에 대한 즉시 항고 기한은 오는 20일까지.\n\n당장 긴급 운영자금 2천억 원을 마련해야 하는 상황이지만, 대주주인 MBK파트너스와 최대 채권자인 메리츠금융 측은 책임을 회피하고 있습니다.\n\n일주일 안에 자금 조달을 하지 못하면, 홈플러스는 사실상 파산 수순을 밟게 됩니다.\n\n연합뉴스TV 김도헌입니다.\n\n[영상취재 김태현]\n\n[영상편집 김예진]\n\n#홈플러스 #기업회생 #파산 #영업중단\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김도헌(dohoney@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260713210724Ll8",
-      "title": "정부, 추가 원전 검토 공식화…\"재생에너지에 병행\"",
-      "content": "정부가 추가 원전 건설을 검토한다는 입장을 공식화했습니다.\n\n김성환 기후 에너지환경부 장관은 오늘(13일) 청와대에서 열린 국가재정전략회의에서 전문가·대국민 의견 수렴을 거친 뒤 신규 원전과 소형모듈원전 도입 여부를 결정할 것이라고 밝혔습니다.\n\n또한 이를 올해 정기국회 전 제시될 것으로 보이는 제12차 전력수급기본계획에 반영하겠다고 했습니다.\n\n김 장관은 2030년까지 재생 에너지 발전 설비 용량을 100GW(기가와트)로 늘리고 원전을 조화하는 '에너지 대전환'의 속도를 높이겠다고 강조했습니다.\n\n#반도체 #원전 #기후부 #국가재정전략회의\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n최지원(jiwoner@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714083316c0P",
-      "title": "내년 최저임금 이르면 오늘 결론…현재 '690원' 격차",
-      "content": "내년도 최저임금 결정을 위한 노사 협상이 막바지에 접어든 가운데 이르면 오늘(14일) 결론이 날 것으로 보입니다.\n\n최저임금위원회는 오후 3시 정부세종청사에서 제14차 전원회의를 열고 내년도 최저임금 심의를 이어갑니다.\n\n지난 회의에서 노동계와 경영계는 9차 수정안으로 각각 시간당 1만1천220원과 1만530원을 제시하며 '690원'까지 차이를 좁혀졌습니다. 하지만 여전히 간극이 커 공익위원들이 제시할 '심의 촉진 구간'이 막판 협상 최대 변수가 될 전망입니다.\n\n공익위원들은 오늘 상한선과 하한선인 '심의 촉진 구간'을 제시하고, 그 안에서 합의나 표결을 유도할 가능성이 높은 상황입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이경희(sorimoa@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714072853Fb4",
-      "title": "[이시각헤드라인] 7월 14일 라이브투데이",
-      "content": "■美 \"이란 상대 3일 연속 공습 개시\"■\n\n미군이 이란에 대해 3일 연속 공습을 개시했습니다.\n\n도널드 트럼프 미국 대통령은 이란에 대한 강력한 타격을 예고한 바 있습니다.\n\n■뉴욕증시 일제 하락…SK하이닉스 ADR 급락■\n\n미국이 호르무즈 해협에서 대이란 봉쇄를 재개하겠다고 밝히며 뉴욕 증시가 일제 하락했습니다.\n\nSK하이닉스의 미국주식예탁증서가 정식 거래 이틀째에 9% 넘게 급락했습니다.\n\n■전국 다시 장맛비…한낮 서울 32도■\n\n전국적으로 폭염 특보가 내려진 가운데 오늘부터는 수도권과 강원에 100mm 이상 많은 비가 내릴 것으로 예상됩니다.\n\n한낮에 서울과 대전 32도, 대구는 36도까지 오를 전망입니다.\n\n■'투표용지' 국조특위 첫 청문회…증인 출석에 촉각■\n\n6·3지방선거 당시 발생한 '투표용지 부족 사태'를 규명하기 위한 국회의 첫 청문회가 열립니다.\n\n위철환 중앙선관위원장 직무대행 등 핵심 인물들의 실제 출석 여부에 관심이 쏠리고 있습니다\n\n■장윤기 '강간 살인' 시인…검찰, 형사과장 소환■\n\n광주 여고생 살해범 장윤기가 재판에서 강간살인 등 모든 공소사실을 인정했습니다.\n\n이런 가운데 장윤기 사건의 부실 및 은폐 의혹을 들여다보는 검찰이 당시 형사과장을 불러 조사했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조성흠(makehmm@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714065550Z0q",
-      "title": "[AM-PM] 이 대통령, 청와대서 영국 앤 공주 접견 外",
-      "content": "오늘(14일) 하루 주요 일정을 살펴보는 보도국 AM-PM입니다.\n\n어떤 일정이 있는지 함께 보시죠.\n\n▶ 이 대통령, 청와대서 영국 앤 공주 접견 (청와대)\n\n이재명 대통령이 오늘(14일) 영국 찰스 3세 국왕의 동생 앤 공주 부부를 청와대에서 접견합니다.\n\n앤 공주 방한은 지난 2018년 이후 8년 만입니다.\n\n청와대는 한국과 영국의 고위급 교류, 교역과 투자, 과학기술 등 다양한 분야에서 논의가 이뤄질 거라고 밝혔습니다.\n\n▶ 오늘 국무회의에 오세훈 참석…부동산 의견 주목 (AM 10:00 청와대)\n\n오세훈 서울시장이 오늘(14일) 오전 10시 청와대에서 열리는 국무회의에 참석합니다.\n\n서울시장은 국무위원은 아니지만, 필요한 경우 배석할 수 있습니다.\n\n오 시장은 배석자 신분으로 정부의 부동산 정책에 대해 의견 개진을 할 걸로 보입니다.\n\n6·3 지방선거 후 오 시장이 국무회의에 참석하는 건 이번이 처음입니다.\n\n▶ 내년 최저임금 결정…노사간 막판 협상 (PM 3:00 정부세종청사)\n\n내년도 최저임금 수준을 결정하는 최저임금위원회 제14차 전원회의가 오늘(14일) 오후 3시 정부세종청사에서 열립니다.\n\n노사가 주장하는 최저임금 격차가 690원으로 좁혀졌지만, 지난 13차 회의에서 최종 합의에 이르지 못했습니다.\n\n노사는 각각 9차 수정안을 내고, 최종 합의점을 찾을 전망입니다.\n\n오늘의 주요 일정은 여기까지입니다.\n\n지금까지 보도국 AM-PM이었습니다.\n\n#부동산 #대통령 #오세훈 #서울시장 #청와대 #영국 #최저임금 #노사 #국빈 #부동산정책\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714054626yNO",
-      "title": "파주 전자제품 창고서 화재…한때 대응 1단계",
-      "content": "어제(13일) 오후 10시9분쯤 파주시 상지석동의 전자제품 판매 창고에서 화재가 발생했습니다.\n\n소방은 화재 확산 우려에 신고 접수 20분 만인 오후 10시 29분 대응 1단계를 발령했습니다.\n\n화재로 창고에서 근무하던 숙직자 1명이 자력으로 대피했으며 인명피해는 없는 걸로 파악됐습니다.\n\n소방은 장비 61대, 140여명을 투입해 불이 난지 약 3시간 반만에 큰 불길을 잡고 대응 1단계를 해제했습니다.\n\n소방은 불을 완전히 끄는대로 화재 원인을 조사할 방침입니다.\n\n[화면제공 시청자 임수연 씨  경기북부소방재난본부]\n\n#화재 #파주 #창고\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714054217bMC",
-      "title": "[이 시각 핫뉴스] \"저 따라오세요\"…산불 길잡이 된 영웅 염소 화제 外",
-      "content": "화요일 아침 이시각 핫뉴스입니다.\n\n연합뉴스TV 기사 중 온라인에서 네티즌들이 가장 많이 본 상위권 뉴스들 지금 바로 알아보겠습니다.\n\n▶ \"저 따라오세요\"…산불 길잡이 된 영웅 염소 화제\n\n먼저 20위 중 2위를 차지한 기사인데요.\n\n미국 콜로라도주에서 산불 진화에 나선 소방관들이 뜻밖의 지원군을 만나 화제를 모으고 있습니다.\n\n기사로 확인해보시죠.\n\n그 정체는 바로 염소였는데요.\n\n콜로라도주의 한 주립공원에서 발생한 산불 현장에 지역 주민이 키우는 염소 ‘골디’가 나타나 소방관들의 길잡이 역할을 했습니다.\n\n대응팀의 코인 총괄은 “골디가 3m 앞 지점에 앉아 계속 뒤를 돌아봤다”며 “바위가 덜 많고 좋은 길로 데려가려고 하는 것 같았다”고 당시 상황을 전했는데요.\n\n골디의 인기에 힘입어 얼굴이 그려진 티셔츠도 판매되고 있는데, 판매 수익금 일부는 소방관 재단에 기부될 예정입니다.\n\n▶ '졸업사진 맛집' 의정부고, 홍명보·리센느 패러디\n\n다음 소식으로 넘어가보도록 하겠습니다.\n\n20위 중 4위를 차지한 기산데요.\n\n한 해를 뜨겁게 달군 인물과 이슈를 기발한 패러디로 담아낸 경기 의정부고등학교의 졸업사진이 올해도 공개됐습니다.\n\n기사 열어보겠습니다.\n\n아이돌 리센느로 분장한 의정부고 학생의 모습인데요.\n\n어제 의정부고 방송부는 공식 SNS를 통해 ‘2026 의정부고 졸업사진’ 이미지들을 공개했습니다.\n\n걸그룹 리센느의 ‘거제, 야호!’로 화제를 모은 멤버 미나미의 스타일링을 완벽하게 재현했고, 축구 국가대표팀 홍명보 전 감독을 패러디한 사진도 관심을 모았는데요.\n\n이밖에도 학생들은 엔비디아 CEO 젠슨 황의 ‘깐부치킨 회동’, 영화 ‘왕과 사는 남자’ 포스터 등 각종 영화와 드라마, 인터넷 밈을 활용한 다양한 패러디를 선보였습니다.\n\n▶ '日패싱' 논란 속 젠슨 황…세가 행사차 도쿄행\n\n마지막 기사로 넘어가보시죠.\n\n17위를 차지한 기삽니다.\n\n최근 두 차례 한국을 방문하면서도 일본을 찾지 않아 ‘일본 패싱’ 논란을 불렀던 젠슨황 CEO가 도쿄를 방문합니다.\n\n기사 확인해보시죠.\n\n‘일본 패싱 논란’의 젠슨 황 CEO가 도쿄에 가는데요.\n\n내일부터 도쿄 아키하바라에서 열리는 엔비디아와 일본 게임 회사 세가의 파트너십 30주년 기념 게릴라 이벤트에 참석할 예정입니다.\n\n엔비디아 지포스 재팬 계정은 이 자리에서 엔비디아의 초고성능 AI 제품 ‘RTX 스파크’를 대중에 소개할 예정이라 전했는데요.\n\n앞서 황 CEO는 지난해 10월과 올해 6월 한국을 찾아 협력 관계를 다졌지만 일본 매체들은 일본을 빼놓고 있다며 아쉬움을 표시한 바 있습니다.\n\n지금까지 이시각 핫뉴스였습니다.\n\n[화면출처 네이버]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n임민형(nhm3115@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714053826UVH",
-      "title": "아주대병원 패스트푸드점서 화재…1,500여명 긴급 대피",
-      "content": "어제(13일) 오후 4시 30분쯤 경기 수원시 영통구 아주대병원 지하1층 패스트푸드점에서 화재가 발생했습니다.\n\n소방당국은 불이 난 지 1시간20여분 만인 오후 6시쯤 큰 불길을 잡았습니다.\n\n화재 당시 지하 1층에 있던 120여명 등 병원 내 1,500여 명이 자력으로 대피해 인명 피해는 발생하지 않은 것으로 전해졌습니다.\n\n경찰과 소방은 매장 내 환풍구에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사할 예정입니다.\n\n[화면제공 경기재난본부·시청자]\n\n#화재 #아주대병원 #패스트푸드점\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714053736K5d",
-      "title": "파주 상지석동 창고서 화재…대응 1단계 발령",
-      "content": "어제(13일) 오후 10시9분쯤 파주시 상지석동의 전자제품 판매 창고에서 화재가 발생했다는 신고가 접수됐습니다.\n\n소방은 화재 확산 우려에 신고 접수 20분 만인 오후 10시 29분 대응 1단계를 발령했습니다.\n\n화재로 창고에서 근무하던 숙직자 1명이 자력으로 대피했으며 인명피해는 없는 걸로 파악됐습니다.\n\n소방은 인원 100여명과 장비 50대를 투입해 불을 끄는 중이며, 불길을 완전히 잡는대로 화재 원인 등을 조사할 계획입니다.\n\n#화재 #파주 #창고\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤형섭(yhs931@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714053521FCg",
-      "title": "대법 \"'구속·압수수색 검사 지휘' 유지돼야\"",
-      "content": "구속·압수수색영장 집행에서 검사의 '지휘'를 '촉탁'으로 변경한 형사소송법 개정안에 대해 대법원이 법리상 현행법 조문을 유지하는 것이 타당하다는 의견을 냈습니다.\n\n대법원 산하 법원행정처는 더불어민주당 김한규 의원이 대표발의한 형사소송법 개정안에 대해 이런 내용이 담긴 검토 의견을 국회에 제출했습니다.\n\n형소법상 검사를 재판의 집행 지휘 기관으로 규정하는 만큼, 법원이 발부한 구속·압수수색영장의 경우에도 \"'수사지휘'가 아니라 법원이 행한 영장 재판의 집행 지휘로 봄이 타당하다\"는 설명입니다.\n\n보완수사권 등 검사의 수사권 폐지와 관련해선 \"부작용 방지를 위한 보완방안이 필요하다\"고 밝혔습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이동훈(yigiza@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714053105yDu",
-      "title": "개표소서 경찰에 침 뱉고 욕설…40대 구속기소",
-      "content": "서울 잠실 개표소 시위 현장에서 경찰관에게 욕설을 하고 침을 뱉은 시위 참가자가 구속 상태로 재판에 넘겨졌습니다.\n\n서울동부지검은 지난 7일 공무집행방해 등 혐의로 40대 여성 A씨를 구속기소했습니다.\n\nA씨는 지난달 23일 경찰관의 얼굴을 휴대전화로 무단 촬영하고 욕설을 하며 침을 뱉은 혐의로 현장에서 붙잡힌 뒤 구속됐습니다.\n\nA씨는 시위 현장 불법행위로 재판에 넘겨진 첫 사례로, 첫 재판은 오는 21일 열릴 예정입니다.\n\n#경찰 #구속기소 #공무집행방해 #욕설 #개표소\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n신선재(freshash@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714052341zD9",
-      "title": "특검, 김건희 '주가조작·금품수수' 16일 상고심 중계방송 신청",
-      "content": "김건희 특검팀이 오는 16일 김건희 씨의 도이치모터스 주가 조작 등 사건 상고심 선고의 중계를 허가해 달라고 대법원에 요청했습니다.\n\n특검팀은 어제(13일) 대법원 2부에 김 씨의 자본시장법 위반 등 사건 선고에 대한 중계방송 허가 신청서를 냈습니다.\n\n김 씨에 대한 선고는 오는 16일 오전 10시 15분 대법원 1호 법정에서 진행됩니다.\n\n김 씨가 받는 재판 중 대법원의 판단이 나오는 건 이번이 처음입니다.\n\n대법원은 지난 9일 윤석열 전 대통령의 공수처 체포방해 등 사건 상고심 선고를 생중계한 바 있습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채원(chae1@yna.co.kr)"
-    },
-    {
-      "id": "MYH20260714051852bQ2",
-      "title": "'국힘 가입강요' 이만희 추가기소…간부들도 재판행",
-      "content": "[앵커]\n\n'정교유착' 의혹을 수사하는 검경 합동수사본부가 신천지 이만희 총회장을 국민의힘 당원가입 강요 혐의로 추가 기소했습니다.\n\n'2인자'로 꼽힌 전직 총무를 비롯해 전현직 간부 7명도 줄줄이 재판에 넘겨졌습니다.\n\n이동훈 기자입니다.\n\n[기자]\n\n지난달 29일 20대 대선 전 국민의힘 후보 경선에 영향을 미칠 목적으로 당원가입을 강제한 혐의로 재판에 넘겨진 이만희 신천지 총회장.\n\n합수본은 지난달 정당법 위반죄 공소시효를 고려해 이 총회장의 일부 혐의만 기소했는데, 이번에 나머지 혐의들도 모두 재판에 넘겨졌습니다.\n\n지난번 기소에 포함되지 않았던 2022년 지방선거, 2023년 국민의힘 당대표 경선, 2024년 총선을 앞두고 신도들을 강제로 가입시킨 혐의 등 총 세 차례의 범행 혐의들이 포함됐습니다.\n\n지난 1월 출범한 합수본은 사건 관계인 200여명을 조사한 결과, 이 총회장이 교단 현안을 해결하기 위해 하부조직에 정당 가입을 지시했다고 판단했습니다.\n\n합수본은 \"신천지가 정치권에 접촉할 필요성이 있다고 판단해 이 총회장의 지시, 승인에 따라 각 지파에 당원 가입을 지시해 독촉했다\"고 밝혔습니다.\n\n신천지는 이른바 '필라테스 프로젝트'를 통해 당원 가입 활동을 위장하기도 했는데, 합수본은 \"가입 목표를 하달해, 조직적으로 신도들이 당원으로 가입할 것을 강요한 사실을 확인했다\"고 덧붙였습니다.\n\n합수본은 이 총회장의 지시와 독려에 따라 최소 5만6천여명의 신도들이 국민의힘에 당원으로 가입한 것으로 파악하고 있습니다.\n\n합수본은 이들 범행에 가담한 혐의로 구속된 '2인자'로 불린 전직 총회 총무 고 모 씨와 신천지의 핵심 지파인 요한 지파 총무 등 총 7명의 간부들도 함께 재판에 넘겼습니다.\n\n다만 고 전 총무의 교단 내부 100억원대 횡령 등 범죄는 이번 기소에 포함되지 않았습니다.\n\n또 합수본은 신천지의 조세포탈이나 추가 정치인 접촉 의혹들을 수사해나갈 방침입니다.\n\n연합뉴스TV 이동훈입니다.\n\n[영상편집 김은채]\n\n[그래픽 이정태]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이동훈(yigiza@yna.co.kr)"
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603352",
-      "title": "교보證 “LG전자, 엔비디아와 AI 동맹 확대…목표가 35만원 유지”",
-      "content": "<div><img alt=\"교보證 “LG전자, 엔비디아와 AI 동맹 확대…목표가 35만원 유지”\" src=\"https://img.etoday.co.kr/crop/200/120/2359070.jpg\" /></div>교보증권은 LG전자에 대해 엔비디아와의 인공지능(AI) 동맹이 피지컬 AI와 AI 인프라, 모빌리티 전 영역으로 확대되고 있다며 투자의견 매수(BUY)와 목표주가 35만원을 유지했다. 하반기 로봇 사업 확대가 확인되면 2027년 실적 성장과 밸류에이션 재평가로 이어질 수 있다는 판단이다.\n\n최보영 교보증권 연구원은 14일 ..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603351",
-      "title": "바이낸스, 창립 9년 만에 이용자 3억 2250만명 돌파",
-      "content": "<div><img alt=\"바이낸스, 창립 9년 만에 이용자 3억 2250만명 돌파\" src=\"https://img.etoday.co.kr/crop/200/120/2359066.jpg\" /></div>\n\n글로벌 가상자산 거래소 바이낸스가 창립 9년 만에 전 세계 이용자 3억2250만 명을 돌파했다고 14일 밝혔다. 전체 가상자산 이용자가 약 7억 명으로 추산되는 가운데 2명 중 1명이 바이낸스를 사용하고 있는 셈이다.\n\n이번 성과는 단순한 이용자 수 증가를 넘어 기관 투자자와 전문 트레이더를 위한 안정적인 거래 환..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603341",
-      "title": "삼일PwC \"항공·방산 100개사 매출 1조달러 돌파…공급난, 한국에 기회\"",
-      "content": "<div><img alt=\"삼일PwC &quot;항공·방산 100개사 매출 1조달러 돌파…공급난, 한국에 기회&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359060.jpg\" /></div>\n지난해 항공우주 및 방위(A&amp;D) 산업의 글로벌 100대 기업 총매출이 사상 첫 1조달러를 돌파하며 역대 최대를 기록했다. 상업용 항공·방위·우주산업 전반에서 수요가 공급을 크게 웃돌면서 생산 능력 확대가 산업의 핵심 과제로 부상한 가운데, 글로벌 공급난이 한국 방위산업에 새로운 도약 기회를 제공하고 있다는..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603336",
-      "title": "유안타증권 \"효성중공업, 과도한 주가 조정…이익 체력·수주 가시성 유효\"",
-      "content": "<div><img alt=\"유안타증권 &quot;효성중공업, 과도한 주가 조정…이익 체력·수주 가시성 유효&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359056.jpg\" /></div>\n유안타증권은 14일 효성중공업에 대해 최근 주가 조정에도 이익 체력과 수주 가시성이 훼손되지 않았다며 투자의견 ‘매수’와 목표주가 500만원을 유지했다. 전 거래일 종가는 266만6000원이다.\n손현정 유안타증권 연구원은 효성중공업의 올해 2분기 매출액을 전년 동기 대비 14.2% 증가한 1조7417억원, 영업이익은 65.7..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603331",
-      "title": "흥국證 \"현대차, 2분기 부품 수급 차질…목표가 78만원↓\"",
-      "content": "<div><img alt=\"흥국證 &quot;현대차, 2분기 부품 수급 차질…목표가 78만원↓&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359053.jpg\" /></div>\n\n흥국증권은 현대차에 대해 하반기 주요 볼륨 모델의 신차 효과와 생산 정상화를 바탕으로 점진적인 실적 회복이 기대된다며 투자의견은 '매수', 목표주가는 78만원으로 하향한다고 14일 밝혔다.\n\n마건우 흥국증권 연구원은 \"현대차의 2026년 2분기 연결 매출액은 47.3조원, 영업이익은 3.0조원을 기록할 것으로 추정된..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603309",
-      "title": "iM證 \"SK이노베이션, 전방위적 이익 개선…목표가 19만원 유지\"",
-      "content": "<div><img alt=\"iM證 &quot;SK이노베이션, 전방위적 이익 개선…목표가 19만원 유지&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359027.jpg\" /></div>\n\niM증권은 SK이노베이션에 대해 정유와 윤활유 부문의 호조와 전방위적인 이익 개선을 바탕으로 하반기에도 높은 매출 레벨이 이어질 가능성이 높다며 투자의견은 '매수', 목표주가는 19만원으로 유지한다고 14일 밝혔다.\n\n전유진 iM증권 연구원은 \"SK이노베이션의 2026년 2분기 연결 영업이익은 1조8500억원으로 견조..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603322",
-      "title": "KB운용, 스페이스X·테슬라 담은 'RISE 미국우주&로봇TOP2미국채혼합50 ETF' 출시",
-      "content": "<div><img alt=\"KB운용, 스페이스X·테슬라 담은 'RISE 미국우주&amp;로봇TOP2미국채혼합50 ETF' 출시\" src=\"https://img.etoday.co.kr/crop/200/120/2359044.jpg\" /></div>\nKB자산운용은 미국 우주 산업과 휴머노이드 로봇 산업의 성장성에 집중 투자하는 채권혼합형 상장지수펀드(ETF) 'RISE 미국우주&amp;로봇TOP2미국채혼합50 ETF'를 14일 출시한다고 밝혔다.\n\n해당 ETF는 스페이스X와 테슬라에 각각 25%씩 투자하고, 나머지 50%는 미국 단기국채를 담는 채권혼합형 ETF다. 미래 산업의 성..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603320",
-      "title": "NH證 “코스피, 피크아웃 공포 과도⋯3~4월 학습효과 상기할 때”",
-      "content": "<div><img alt=\"NH證 “코스피, 피크아웃 공포 과도⋯3~4월 학습효과 상기할 때”\" src=\"https://img.etoday.co.kr/crop/200/120/2359045.jpg\" /></div>\n\nNH투자증권은 국내 증시에 대해 다중 악재가 단기간에 선반영되며 가격 조정이 급격히 진행됐다고 14일 밝혔다.\n\n김병연 NH투자증권 연구원은 “한국 증시 변동성은 금융위기 당시를 상회하는 수준까지 확대됐다”며 “반도체 피크아웃 논란, 미·이란 갈등 재점화, 국내 수급 교란, 미국 금리 상승 우려 등이 복합적으로 ..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603318",
-      "title": "IBK證 “코스피 약세장 전환 조짐…지금 급락은 과도한 언더슈팅”",
-      "content": "<div><img alt=\"IBK證 “코스피 약세장 전환 조짐…지금 급락은 과도한 언더슈팅”\" src=\"https://img.etoday.co.kr/crop/200/120/2359042.jpg\" /></div>\n\nIBK투자증권은 코스피가 고점 대비 20% 넘게 하락하며 약세장 전환 조짐을 보이고 있지만 펀더멘털과 밸류에이션을 감안하면 지금 급락은 과도한 언더슈팅이라고 진단했다. 반도체 투자심리 위축과 이란 리스크 재부각이 변동성을 키우고 있으나 극단적 위험 국면으로 보기에는 이르다는 판단이다.\n\n변준호 IBK투자증..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603313",
-      "title": "iM \"삼성생명, 삼성전자 지분 변수 부각…본업가치 재평가 과제\"",
-      "content": "<div><img alt=\"iM &quot;삼성생명, 삼성전자 지분 변수 부각…본업가치 재평가 과제&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359036.jpg\" /></div>\n\niM증권은 14일 삼성생명에 대해 본업보다 삼성전자 지분과 계열사 가치가 핵심 변수로 부각되고 있다며 투자의견 ‘매수’와 목표주가 38만원을 유지했다. 삼성전자 주가와 배당, 지분 처분 이익의 주주환원 활용 여부가 향후 주가 흐름을 좌우할 것으로 봤다.\n\n설용진 iM증권 연구원은 \"2분기 연결 지배순이익은 7654억..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603195",
-      "title": "반도체 투매에 7000선 반납한 ‘검은 월요일’…코스피 4월 말 이후 '최저'[종합]",
-      "content": "<div><img alt=\"반도체 투매에 7000선 반납한 ‘검은 월요일’…코스피 4월 말 이후 '최저'[종합]\" src=\"https://img.etoday.co.kr/crop/200/120/2358903.jpg\" /></div>\nAI 랠리를 이끌던 반도체 ‘투톱’이 무너지면서 국내 증시가 ‘검은 월요일’을 맞았다. SK하이닉스가 17년 만에 최대 낙폭을 기록하고 삼성전자도 10% 넘게 급락하자 코스피는 두 달여 만에 7000선을 내줬다. 미국과 이란의 무력 충돌 재개로 위험회피 심리가 커진 가운데 SK하이닉스 미국주식예탁증서(ADR) 상장 이후 차..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603312",
-      "title": "미래에셋證 “SK하이닉스, 대외 업황 변수 여전히 견조”",
-      "content": "<div><img alt=\"미래에셋證 “SK하이닉스, 대외 업황 변수 여전히 견조”\" src=\"https://img.etoday.co.kr/crop/200/120/2359031.jpg\" /></div>\n\n미래에셋증권은 SK하이닉스에 대해 투자의견 ‘매수’와 목표주가 420만원을 유지한다고 14일 밝혔다.\n\n김영건 미래에셋증권 연구원은 “저점 비중확대가 유효한 시기라고 판단한다”며 “최근 주가 조정은 2분기 실적 기대와 미국 주식예탁증서(ADR) 상장에 따른 수급적 기대가 되돌려지는 과정에서 다소 과하게 진행됐지..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603297",
-      "title": "[증시키워드]SK하이닉스  200만원 붕괴·삼성전자 10%↓…HLB 이틀 연속 하한가",
-      "content": "<div><img alt=\"[증시키워드]SK하이닉스  200만원 붕괴·삼성전자 10%↓…HLB 이틀 연속 하한가\" src=\"https://img.etoday.co.kr/crop/200/120/2359030.jpg\" /></div>\n\n국내 증시에서 투자자들의 관심이 반도체 대형주와 바이오주로 쏠리고 있다. 전날 코스피가 9% 가까이 폭락하며 7000선을 내준 가운데 SK하이닉스는 한 달여 만에 200만원 아래로 내려왔고 삼성전자도 10% 넘게 급락했다. 삼성전기와 SK스퀘어까지 두 자릿수 낙폭을 기록한 반면 삼성SDI는 강보합으로 버티며 종목별 ..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603309",
-      "title": "iM證 \"SK이노베이션, 전방위적 이익 개선…목표가 19만원 유지\"",
-      "content": "<div><img alt=\"iM證 &quot;SK이노베이션, 전방위적 이익 개선…목표가 19만원 유지&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359027.jpg\" /></div>\n\niM증권은 SK이노베이션에 대해 정유와 윤활유 부문의 호조와 전방위적인 이익 개선을 바탕으로 하반기에도 높은 매출 레벨이 이어질 가능성이 높다며 투자의견은 '매수', 목표주가는 19만원으로 유지한다고 14일 밝혔다.\n\n전유진 iM증권 연구원은 \"SK이노베이션의 2026년 2분기 연결 영업이익은 1조8500억원으로 견조..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603308",
-      "title": "NH투자증권 “외국인 관광소비 47% 급증…호텔·카지노 수혜 확대”",
-      "content": "<div><img alt=\"NH투자증권 “외국인 관광소비 47% 급증…호텔·카지노 수혜 확대”\" src=\"https://img.etoday.co.kr/crop/200/120/2359026.jpg\" /></div>\n\nNH투자증권은 14일 외국인 관광객 증가와 인당 소비액 확대가 동시에 나타나면서 국내 호텔과 외국인 카지노 업종의 성장 환경이 개선되고 있다고 분석했다. 호텔은 객실 단가와 투숙 수요의 동반 상승이 기대되고, 카지노는 중국·일본인 관광객 증가에 따른 매스(일반고객층) 고객 확대가 실적 성장을 이끌 것으로 전..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603303",
-      "title": "[오늘의 투자전략] “반도체 중심으로 코스피 변동성 확대 전망”⋯ 美 중동 봉쇄ㆍ연준 긴축 경계↑",
-      "content": "<div><img alt=\"[오늘의 투자전략] “반도체 중심으로 코스피 변동성 확대 전망”⋯ 美 중동 봉쇄ㆍ연준 긴축 경계↑\" src=\"https://img.etoday.co.kr/crop/200/120/2359019.jpg\" /></div>\n\n트럼프 미국 행정부의 중동 봉쇄 재개에 따른 국제유가 폭등과 미 연방준비제도(Fed·연준) 인사의 추가 긴축 시사 발언이 겹치며 미국 증시가 일제히 하락한 가운데, 국내 증시 역시 대형 반도체주를 중심으로 변동성 장세를 이어갈 것이라는 전망이 나왔다.\n\n14일 김유미 키움증권 연구원은 \"오늘 국내 증시는 코스피..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603306",
-      "title": "KB증권 \"오리온, 우호적인 환율 속 안정적 성장…목표가 7%↑\"",
-      "content": "<div><img alt=\"KB증권 &quot;오리온, 우호적인 환율 속 안정적 성장…목표가 7%↑&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359025.jpg\" /></div>\nKB증권은 14일 오리온에 대해 우호적인 환율 속 해외 법인 중심으로 안정적인 성장을 이어갔다며 투자의견 '매수'를 유지하고, 목표주가를 기존 15만원에서 16만원으로 6.7% 상향했다. 오리온의 전 거래일 종가는 13만3700원이다.\n\n류은애 KB증권 연구원은 \"6월 잠정 매출은 우호적인 환율 속 해외 법인 중심으로 안정..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603305",
-      "title": "[오늘의 증시일정] 엔피·위지웍스튜디오·한국제지·동원금속 등",
-      "content": "<div><img alt=\"[오늘의 증시일정] 엔피·위지웍스튜디오·한국제지·동원금속 등\" src=\"https://img.etoday.co.kr/crop/200/120/2351994.jpg\" /></div>\n[감자] 엔피, 씨씨에스, 비큐AI, CSA 코스믹\n\n[분할/합병] 위지웍스튜디오, 엔피\n\n[주주총회] 앰앤씨솔루션, 엠아이큐브솔루션, 프로이천, 한국제지\n\n[불성실공시법인지정] 동원금속"
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603300",
-      "title": "대신證, “현대차, 로봇ㆍ피지컬 AI 모멘텀 여전하지만⋯목표가 74만원↓”",
-      "content": "<div><img alt=\"대신證, “현대차, 로봇ㆍ피지컬 AI 모멘텀 여전하지만⋯목표가 74만원↓”\" src=\"https://img.etoday.co.kr/crop/200/120/2359001.jpg\" /></div>\n\n대신증권은 현대차의 목표주가를 기존 77만원에서 74만원으로 하향했으나 투자의견 '매수'와 업종 내 최선호주 의견을 유지했다.\n\n14일 대신증권은 보스턴다이나믹스(BD) 관련 소음과 2분기 실적 부진 우려로 최근 주가가 고점 대비 크게 하락했으나, 시장이 주목해 온 '피지컬 인공지능(AI)'의 성장 내러티브는 여전..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603301",
-      "title": "대신증권 \"금호타이어 목표가 8300원 상향…광주 공장 매각 수혜 기대\"",
-      "content": "<div><img alt=\"대신증권 &quot;금호타이어 목표가 8300원 상향…광주 공장 매각 수혜 기대&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2359008.jpg\" /></div>\n\n대신증권이 금호타이어에 대해 호남 반도체 클러스터 조성에 따른 광주 공장 매각 가능성이 커졌다며, 투자의견을 '매수'로 유지하고 목표주가를 8300원으로 상향했다.\n\n14일 김귀연 대신증권 연구원은 목표가 상향 이유에 대해 \"정부의 호남 반도체 클러스터 조성에 따른 금호타이어 광주공장 매각 가능성 확대와 이..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603298",
-      "title": "원·달러 NDF 5.3원 하락..SK하이닉스 ADR 후광",
-      "content": "<div><img alt=\"원·달러 NDF 5.3원 하락..SK하이닉스 ADR 후광\" src=\"https://img.etoday.co.kr/crop/200/120/2358998.jpg\" /></div>역외환율이 하락했다. SK하이닉스 ADR 나스닥 상장에 따른 후광효과가 이어지는 것으로 풀이된다. 반면, 글로벌 금융시장에서 달러화는 강세 엔화는 약세를 기록했다. 브렌트유가 9.5% 넘게 급등하는 등 3대 국제유가도 크게 올랐다. 미국채와 뉴욕증시는 동반약세를 보였다. 미국·이란 갈등에 중동 지정학적 긴장이 고..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603295",
-      "title": "[오늘의 IR] 대한항공ㆍ올릭스ㆍ페니트리움바이오 등",
-      "content": "<div><img alt=\"[오늘의 IR] 대한항공ㆍ올릭스ㆍ페니트리움바이오 등\" src=\"https://img.etoday.co.kr/crop/200/120/2285973.jpg\" /></div>\n\n△멕아이씨에스, 향후 사업내용 설명 및 투자자 이해증진\n△페니트리움바이오, 신약 파이프라인 개발현황 및 글로벌 사업전략 소개\n△올릭스, 회사 소개 및 주요 사업현황 설명\n△대한항공, 2026년 2분기 실적 설명\n△에스엠벡셀, 회사 경영실적·전략 설명을 통한 투자자 이해 증진"
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603138",
-      "title": "무너진 7000피·환율 1500 돌파…美 CPI·TSMC 타고 반도체 넘어 볕 드나",
-      "content": "<div><img alt=\"무너진 7000피·환율 1500 돌파…美 CPI·TSMC 타고 반도체 넘어 볕 드나\" src=\"https://img.etoday.co.kr/crop/200/120/2358880.jpg\" /></div>美 5대 빅뱅크 어닝시즌 개막...ASML 수주 시그널 눈길연준 의장 증언 대기 속 '서킷브레이커' 충격 딛고 반등할까\n\n국내 증시가 서킷브레이커가 발동되는 등 극심한 변동성을 겪은 가운데, 이번 주 미국 대형 거시경제(매크로) 이벤트와 주요 기업 실적 발표를 계기로 반도체를 넘어 여타 업종으로 수익률 회복 온기가 ..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603206",
-      "title": "\"돌아와요, 코스피항에\"…5월부터 107조 순매도한 외국인 언제 돌아오나",
-      "content": "<div><img alt=\"&quot;돌아와요, 코스피항에&quot;…5월부터 107조 순매도한 외국인 언제 돌아오나\" src=\"https://img.etoday.co.kr/crop/200/120/2358883.jpg\" /></div>\n\n국내 증시가 외국인의 거센 매도세와 투자심리 위축으로 고점 대비 25% 이상 폭락하며 약세장 진입 우려를 낳고 있는 가운데, 증권업계에서는 코스피가 이미 '진바닥' 구간에 진입해 이달 말부터 외국인 수급이 개선될 수 있다는 분석을 내놓고 있다.\n\n14일 한국거래소에 따르면 최근 코스피는 외국인의 대규모 순매도..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603143",
-      "title": "7월 초 ‘MS·아이렌·스페이스X’ 담은 서학개미⋯수익률은 무더기 마이너스",
-      "content": "<div><img alt=\"7월 초 ‘MS·아이렌·스페이스X’ 담은 서학개미⋯수익률은 무더기 마이너스\" src=\"https://img.etoday.co.kr/crop/200/120/2358824.jpg\" /></div>\n\n7월 초 반도체주가 숨을 고르는 틈을 타 서학개미들이 빅테크와 바이오 종목으로 눈을 돌렸으나, 이들 종목의 투자 수익률은 대체로 부진했던 것으로 나타났다.\n\n14일 증권정보포탈 세이브로(SEIBro)에 따르면 이달 1일부터 10일까지 국내 개인 투자자들의 해외주식 순매수 상위 종목(ETF 제외)은 △마이크로소프트 △아..."
-    },
-    {
-      "id": "https://www.etoday.co.kr/news/view/2603233",
-      "title": "현금성자산 분기에 50조씩 는다…금리 ·환율에도 영향 [자본시장 '큰 손' 떠오른 삼전닉스]①",
-      "content": "<div><img alt=\"현금성자산 분기에 50조씩 는다…금리 ·환율에도 영향 [자본시장 '큰 손' 떠오른 삼전닉스]①\" src=\"https://img.etoday.co.kr/crop/200/120/2358944.jpg\" /></div>양사, 1분기 유동자산 260조 육박2분기 현금성자산 50조 증가 전망단기금융상품·회사채 등 대규모 매입M&amp;A·IPO까지 영향력 확대 주목\n\n\n\nAI 반도체 슈퍼사이클이 국내 자본시장의 판을 바꾸고 있다. 삼성전자와 SK하이닉스가 벌어들이는 천문학적인 현금이 채권과 외환시장으로 유입되면서 금리와 환율을 움직이는 ..."
-    },
     {
       "id": "https://www.etoday.co.kr/news/view/2603148",
       "title": "역대급 곳간…운용사, MMF·단기채펀드 유치 경쟁 [자본시장 '큰 손' 떠오른 삼전닉스]③",
@@ -712,6 +548,211 @@
       "id": "https://www.etoday.co.kr/news/view/2603692",
       "title": "'유가 하락 영향' 6월 수출물가 보합세⋯수입물가는 4.4% 하락",
       "content": "<div><img alt=\"'유가 하락 영향' 6월 수출물가 보합세⋯수입물가는 4.4% 하락\" src=\"https://img.etoday.co.kr/crop/200/120/2356808.jpg\" /></div>한은, '26년 6월 수출입물가지수(잠정)' 발표\n\n6월 우리나라 수출물가가 전월 수준을 유지했다. 급등한 원·달러환율과 반도체 수출 호조가 상방요인으로 작용한 반면, 석탄 및 석유제품 등 유가 하락세가 확대된 데 따른 영향이다. 수입물가 역시 유가 하락 영향권에 놓이면서 4%대 하락세를 기록했다. \n\n15일 한국은행..."
+    },
+    {
+      "id": "MYH20260716065530g7F",
+      "title": "[AM-PM] 이 대통령 업무보고 이틀째…과기부·국토부 순 外",
+      "content": "오늘(16일) 하루 주요 일정을 살펴보는 보도국 AM-PM입니다.\n\n어떤 일정이 있는지 함께 보시죠.\n\n▶ 이 대통령 업무보고 이틀째…과기부·국토부 순 (AM 10:00 청와대)\n\n이재명 대통령이 오늘(16일) 오전 10시부터 청와대 영빈관에서 2차 부처별 업무보고를 받습니다.\n\n먼저 과학기술정보통신부와 방송미디어통신위원회 그리고 개인정보보호위원회의 업무보고를 청취합니다.\n\n이어서 오후에는 국토교통부와 농림축산식품부, 보건복지부 등의 업무보고를 주재할 예정입니다.\n\n▶ 한은 금통위, 오늘 기준금리 결정…인상 유력 (AM 09:00 한국은행)\n\n한국은행 금융통화위원회는 오늘(16일) 통화정책방향회의를 열고 기준금리를 결정합니다.\n\n시장에서는 이번 금통위가 기준금리를 0.25%포인트 올릴 가능성에 무게를 두고 있습니다.\n\n현재 기준금리는 연 2.50%로, 인상이 이뤄지면 지난 2023년 1월 이후 3년 반 만의 금리 인상입니다.\n\n<b>▶</b>'통일교 1억' 권성동 대법 선고…2심 징역 2년 (AM 10:15대법원)\n\n통일교 측으로부터 금품을 수수한 혐의로 재판을 받아온 국민의힘 권성동 의원의 대법원 상고심 선고가 오늘 있을 예정입니다.\n\n앞서 권 의원은 제20대 대통령 선거를 앞두고 통일교 교단 지원 등을 청탁 받는 대가로 1억 원을 수수한 혐의로 기소됐고, 1심과 2심에서 모두 징역 2년과 추징금 1억 원이 선고됐습니다.\n\n대법원이 이번 상고심에서 원심 판결을 그대로 확정할 경우, 권 의원은 관련 법에 따라 의원직을 상실하게 됩니다.\n\n오늘의 주요 일정은 여기까지입니다.\n\n지금까지 보도국 AM-PM이었습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716052218QCE",
+      "title": "통합 사관학교, '대전 자운대 4년제' 추진…오늘 발표",
+      "content": "국방부는 육·해·공군 사관학교를 통합한 국군사관학교를 대전 자운대에 설립하고 사관생도를 4년간 통합교육하는 방안을 유력하게 검토 중인 것으로 어제(15일) 알려졌습니다.\n\n정부와 여당은 오늘(16일) 국회에서 당정협의회를 열고 국군사관학교 창설 기본계획을 검토한 후 공식 발표할 예정입니다.\n\n당초 국방부는 사관학교 생도들을 통합 선발해 1·2학년은 공통 교육, 3·4학년은 각 군으로 흩어져 전문교육을 받는 방식을 검토해왔는데, 합동성 강화 등을 고려해 '자운대 4년 통합교육'으로 계획을 변경한 것으로 전해졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)"
+    },
+    {
+      "id": "MYH202607160521101Ho",
+      "title": "세계유산위 \"日 사도광산 '강제노동' 역사 반영 미흡…충분히 다뤄야\"",
+      "content": "유네스코 세계유산위원회는 일본이 사도광산을 세계유산으로 등재할 당시에 한 약속과 달리 사도광산에서 조선인 강제노동이 이뤄진 사실을 제대로 알리지 않았다며, 개선을 권고했습니다.\n\n세계유산위는 일본이 제출한 사도광산 보존현황보고서를 평가하고 이같이 권고했다고 어제(15일) 회원국에 회람한 결정문에서 밝혔습니다.\n\n결정문은 사도광산의 '전체 역사'를 반영하는 해석·전시 전략을 수립하라는 세계유산위의 권고를 이행하는 데 있어서 일본 측의 \"일부 진전\"이 있었으나 충분하지 않다고 평가했습니다.\n\n그러면서 \"광산개발 모든 기간에 걸쳐 전체 역사를 현장 차원에서 포괄적으로 다루고, 시설을 개선하기 위해 당사국들과 긴밀히 협의하라\"고 권고했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716051815Zev",
+      "title": "이 대통령, 소총 보도에 \"가짜뉴스가 세상 어지럽혀\"",
+      "content": "이재명 대통령은 \"가짜뉴스가 온 세상을 어지럽히고, 공동체를 파괴할 정도로 적대적인 대결적 문화를 만들어 낸다\"고 지적했습니다.\n\n이 대통령은 어제(15일) 열린 업무보고에서 최근 연평부대 방문 당시 사용한 K2C1 소총이 병사들에게는 거의 보급되지 않은 총기라는 한 언론의 보도를 언급하며 이같이 말했습니다.\n\n이 대통령은 \"사실 대한민국 국군 17만명에게 지급돼 있는, 거의 보편화 돼 있는 총기\"라며 \"그런 엉터리 기사를 써서 정부를 공격하는 일도 사실 즉각 팩트체크가 가능하다면 안 생겼을 것\"이라고 지적했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한지이(hanji@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715231745ILa",
+      "title": "세계유산위 \"日 사도광산 '조선인 강제노동' 반영 미흡…보완해야\"",
+      "content": "[앵커]\n\n일본은 조선인 강제노역 현장인 사도광산을 세계유산으로 등재할 당시 '전체 역사'를 반영한 해석과 전시를 약속했습니다.\n\n하지만, 유네스코 세계유산위원회는 아직도 일본의 약속 이행이 미흡하다고 지적했는데요, 이번 권고는 한국 정부의 입장을 반영한 것이란 평가가 나옵니다.\n\n지성림 기자입니다.\n\n[기자]\n\n유네스코 세계유산위원회는 재작년 7월 사도광산을 세계문화유산으로 등재하면서 일본 측에 광산 개발의 '전체 역사'를 반영한 해석·전시 전략을 수립하라고 권고했습니다.\n\n이는 일제강점기 조선인 강제노역 사실까지도 반영한 전시 시설 등을 마련하라는 얘기로, 일본도 권고 이행을 약속했습니다.\n\n하지만, 일본은 2년이 지난 지금 여전히 약속을 지키지 않고 있습니다.\n\n세계유산위가 최근 일본이 제출한 사도광산 보존현황보고서를 평가하고, 일본이 권고 이행에 미흡하다고 지적한 겁니다.\n\n세계유산위는 회원국에 회람한 결정문에서 사도광산의 '전체 역사'를 반영하라는 권고를 이행하는 데 있어서 일본 측의 \"일부 진전\"이 있었지만, 아직도 충분하지 않다고 밝혔습니다.\n\n특히 \"해석·전시 전략과 시설이 어떻게 사도광산의 전체 역사를 포괄적으로 다루는지 더 명확히 설명하라\"며 이 같은 상황을 개선하기 위해 \"관련 당사국들과 긴밀히 협의하라\"고 권고했습니다.\n\n세계유산위는 이번 권고에 대한 이행 보고서를 내년 12월까지 제출하라고 일본에 요청했습니다.\n\n이번 결정문은 부산에서 열리는 제48차 세계유산위원회에서 다음 주에 안건으로 논의되며, 위원국 간 이견이 없으면 합의로 채택될 전망입니다.\n\n세계유산위 권고는 한국 정부의 입장에 힘을 실어준 것이란 평가가 나옵니다.\n\n정부는 사도광산 해석과 전시에 있어서 조선인 노동의 강제성을 더 분명하게 표현해야 한다는 입장입니다.\n\n사도광산은 에도시대에 금광으로 유명했던 곳으로, 일본은 태평양전쟁이 본격화한 후에는 전쟁 물자를 확보하는 광산으로 이용했습니다.\n\n당시 식민지 조선인들이 강제 동원돼 혹독한 환경 속에서 일했는데, 1940~1945년 사도광산에서 노역한 조선인 수는 1,519명으로 알려졌습니다.\n\n연합뉴스TV 지성림입니다.\n\n[영상편집 윤현정]\n\n[그래픽 민승환]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715231554yzs",
+      "title": "통합 사관학교, '대전 자운대 4년제' 추진…내일 발표",
+      "content": "국방부는 육·해·공군 사관학교를 통합한 국군사관학교를 대전 자운대에 설립하고 사관생도를 4년간 통합교육하는 방안을 유력하게 검토 중인 것으로 오늘(15일) 알려졌습니다.\n\n정부와 여당은 내일(16일) 국회에서 당정협의회를 열고 국군사관학교 창설 기본계획을 검토한 후 공식 발표할 예정입니다.\n\n당초 국방부는 사관학교 생도들을 통합 선발해 1·2학년은 공통 교육, 3·4학년은 각 군으로 흩어져 전문교육을 받는 방식을 검토해 왔는데, 합동성 강화 등을 고려해 '자운대 4년 통합교육'으로 계획을 변경한 것으로 전해졌습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n지성림(yoonik@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715225008RMt",
+      "title": "[투나잇이슈] 여야, 보완수사권 존폐 갑론을박…유시민 또 직격",
+      "content": "&lt;출연 : 최창렬 용인대 특임교수 · 김철현 경일대 특임교수&gt;\n\n보완 수사권을 두고 여권 내에서 균열이 감지되고 있습니다.\n\n몇몇 의원들은 보완 수사권을 남겨두는 법안을 발의했고, 친청계에선 배신이란 반응이 나왔습니다.\n\n국민의힘은 모처럼 지도부가 뜻을 모으며 보완 수사권 존치 여론전을 펼쳤습니다.\n\n관련 내용, 최창렬 용인대 특임교수, 김철현 경일대 특임교수와 짚어 봅니다.\n\n&lt;질문 1&gt; 경찰청 특별수사단이 장윤기 사건 중간 수사 결과를 발표했는데요. 새로운 내용도 나왔습니다. 이번 사건을 계기로 정치권은 검찰 보완 수사권 존폐 문제를 놓고 공방을 계속 벌이고 있습니다. 법사위 소위에선 형소법 개정안 심사를 하며 법무부 등의 의견을 청취했고, 민주당은 공청회도 열기로 했습니다. 속도 조절에 들어갔다고 보면 될까요?\n\n&lt;질문 1-1&gt; 법안 발의에 참여한 고민정 의원도 온갖 험악한 문자를 받았다고 하죠. 국민의힘은 보완 수사 존치를 명시한 맞불 법안을 당론으로 발의했습니다. 결론이 어떻게 날 것으로 전망하시는지요?\n\n&lt;질문 2&gt; 이런 가운데, 이른바 재건축론으로 이 대통령의 외연 확장 통합 기조를 비판했던 유시민 작가가 다시 이 대통령을 비판했습니다. 이 대통령의 검찰 개혁과 정계 개편 구상을 겨냥해 “필연적인 실패의 길로 가고 있다”라며 “참혹한 결과로 귀착될 가능성이 매우 높다”라고 주장했습니다. 친명계가 바로 반발했는데요. 유 작가가 이 대통령을 이렇게 연거푸 비판하는 배경, 어디에 있다고 보세요?\n\n&lt;질문 3&gt; 더불어민주당이 8·17 전당대회 룰을 최종 확정하고, 16일 후보 등록에 들어갑니다. 유권자가 1·2·3순위를 모두 선택하는 선호투표제 도입으로 유불리 셈법이 복잡해지면서 후보 간 설전이 거칠어지고 있는데요. 지금 상황, 어떻게 보고 계세요.\n\n&lt;질문 4&gt; 송영길 의원은 지난 지방선거에서 평택을에 민주당 후보를 내지 않았어야 했다는 정청래 전 대표의 발언에 대해 애를 낳지 말았어야 했다는 말과 같다고 비판했습니다. 정 전 대표의 이 발언이 무책임하다고 몰아붙인 겁니다. 공천한 것도 본인, 후원회장을 맡은 것도 본인인데 유체 이탈 화법을 쓰고 있다는 겁니다. 그렇게 볼만한 측면이 있을까요?\n\n&lt;질문 5&gt; 눈여겨볼 만한 여론조사도 발표됐습니다. 한동훈 의원 복당이 국민의힘 쇄신과 보수 재편에 도움이 되겠냐는 질문에 부정적 의견이 과반을 넘은 걷는 것으로 조사됐습니다. 전체 응답뿐 아니라 국민의힘 지지층 내에서도 부정적 의견이 우세하더군요?\n\n&lt;질문 6&gt; 장동혁 대표는 이런 상황에서 무소속 한동훈 의원의 복당 문제에 작심하고 반대 의견을 냈습니다. 당을 사지로 몰아넣었고, 추경호 시장을 내란죄로 처벌받으라고 하는 것이냐고 쏘아붙인 겁니다. 안철수 의원 증언에 장 대표 발언까지 더해지면서 당분간은 복당 건 꺼내기 어려워졌다고 봐야 할까요?\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김성구(sunggu37@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260715224106vuC",
+      "title": "장동혁, 전남광주서 \"소중한 한 표 지키는 데 정치생명 걸겠다\"",
+      "content": "<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715224106vuC_01_i.jpg\" /><span class=\"yna_title\">선관위 해체 집회에 참석한 장동혁 대표</span><span class=\"yna_caption\">[자료 연합뉴스]</span><span class=\"yna_description\">[자료 연합뉴스]</span></div>\n이른바 참정권 수호를 위한 장외 행보 중인 국민의힘 장동혁 대표가 오늘(15일) 전남광주통합특별시를 찾았습니다.\n\n장 대표는 전남광주 서구 전남광주선거관리위원회 청사 앞에서 열린 6·3 참정권 박탈 규탄 집회에서 \"참정권이 침해된 잘못된 선거를 다시 하자는 것은 지극히 당연한 외침\"이라며 \"왜 이재명 정권과 더불어민주당은 그 목소리에 귀 기울이지 않는 것이냐\"고 물었습니다.\n\n이어 \"심지어 국민의힘의 많은 의원들조차 그 목소리에 귀 기울이지 않는다\", \"제1야당인 국민의힘마저 그 목소리를 다 담아내지 못하고 있다\"며 \"국민의힘이 부끄럽고, 당대표인 제가 부끄럽다\"고 말했습니다.\n\n장 대표는 또 \"국민들의 소중한 한 표를 지키는 것에 제 정치생명을 걸겠다\"면서 \"우리가 역사의 부름을 받고 목숨을 던져야 할 때가 있다면 오늘이 바로 그때\"라고 말했습니다.\n\n장 대표와 함께 박준태 당 대표 비서실장과 전북도당위원장인 5선 조배숙 의원, 시민 200여명이 집회에 참석했습니다.\n\n장 대표는 제헌절인 오는 17일 올림픽공원 집회에 참석하는 데 이어, 다음 주 대구·경기 지역에서 '장외 행보'를 이어가겠다는 계획입니다.\n\n#장동혁 #전남광주 #선관위\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715220625mGA",
+      "title": "유시민 \"李 정부, 필연적 실패의 길\"…친명계 '부글부글'",
+      "content": "[앵커]\n\n여권 논객 유시민 작가가 이재명 대통령을 향해 또 비판을 쏟아냈습니다.\n\n국정 운영이 \"필연적 실패의 길로 가고 있다\"며 검찰 개혁 지연의 책임도 대통령에게 돌렸습니다.\n\n여권 내 친명계 등은 즉각 반발했습니다.\n\n강은나래 기자입니다.\n\n[기자]\n\n지난달 이재명 대통령의 중도·보수 통합 행보를 두고 \"지지자가 원한 건 증축인데 대통령은 재건축을 하려 한다\"며 비판했던 유시민 작가.\n\n논란이 채 가시기도 전에 또 작심 발언을 쏟아냈습니다.\n\n유 작가는 여권 성향의 한 유튜브 방송에 출연해 검찰의 수사·기소 분리가 지연되는 근본 원인이 대통령의 의지 부족에 있다고 날을 세웠습니다.\n\n&lt;유시민 / 작가 (유튜브 '매불쇼')&gt; \"지금 검찰개혁이 1년이 넘도록 안 이뤄진 이유는 대통령이 수사·기소의 완전 분리를 원하지 않기 때문에 이렇게 된 거예요.\"\n\n대통령이 정치적 부담은 참모들에게 떠넘기고 성과만 챙긴다는 주장도 했습니다.\n\n&lt;유시민 / 작가 (유튜브 '매불쇼')&gt; \"대통령은 마키아벨리적으로 이 문제를 처리했어요. '욕먹을 일은 밑에 사람을 시켜라' 군주론에 나오는 얘기잖아요. '인기를 얻을 일은 내가 해라' 그런 게 나옵니다.\"\n\n이어 서울시장·당대표 경선 과정의 이른바 '명픽' 논란을 재차 끄집어내, 국정 노선이 \"필연적인 실패의 길로 가고 있다\"고 주장했습니다.\n\n&lt;유시민 / 작가 (유튜브 '매불쇼')&gt; \"옳다 그르다를 떠나서 필연적인 실패의 길로 가고 있다. 이제는 마음이 편해졌어요. 이제는 받아들여요. 아, 이렇게 가는구나. 돌아올 수 없구나, 이제.\"\n\n친명계 등에서 즉각 격앙된 반응이 쏟아졌습니다.\n\n박지원 의원은 SNS를 통해 \"지나친 논리의 비약으로 정부와 당을 폄훼한다면 누구에게 이득이 되겠느냐\"고 쏘아붙였습니다.\n\n장철민 의원은 \"어떻게 동지라 불렀던 입으로 저주의 언어를 토해낼 수 있느냐\"며 \"실패와 분열을 먹고 사는 하이에나 짓을 멈추라\"고 경고했습니다.\n\n송재봉 의원도 \"정부의 실패를 고사 지내는 이유가 무엇이냐\"며 정면으로 캐묻는 등 비판이 쏟아졌습니다.\n\n3주 사이 두 차례나 이어진 유 작가의 작심 발언이, 8·17 전당대회를 앞둔 여권 내 계파 갈등에 불씨를 더하는 모양새입니다.\n\n연합뉴스TV 강은나래입니다.\n\n[영상취재 김성수 박태범 김상훈 홍수호]\n\n[영상편집 이애련]\n\n[그래픽 임혜빈]\n\n#유시민 #더불어민주당 #박지원 #이재명대통령 #전당대회 #매불쇼 #친명계 #친청계\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n강은나래(rae@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260715214059y2J",
+      "title": "강경화 주미대사 \"쿠팡, 생각보다 훨씬 오래가는 이슈\"",
+      "content": "<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715214059y2J_01_i.jpg\" /><span class=\"yna_title\">취재진 질문에 답하는 강경화 주미대사</span><span class=\"yna_caption\">[자료: 연합뉴스]</span><span class=\"yna_description\">[자료: 연합뉴스]</span></div>\n한미 관계 업무 협의를 위해 일시 귀국한 강경화 주미한국대사가 쿠팡 문제를 두고 \"생각보다 훨씬 오래가는 이슈\"라고 언급했습니다.\n\n강 대사는 오늘(15일) 외교부 청사에서 취재진과 만나 이렇게 밝히고 \"그 이슈는 그 이슈대로 관리하면서 조인트 팩트시트(한미 정상회담 공동설명자료)에 양 정상께서 합의한 사안들에 대해 진전을 만들려고 다양한 레벨에서 협의를 계속 하고 있다\"고 말했습니다.\n\n미국 측이 한국 측에 구체적으로 요구한 사항이 있느냐는 질문에는 \"지금 말씀드릴 수 있는 게 없다\"며 \"계속 협의를 이어 나가고 있다\"고 답했습니다.\n\n강 대사는 한국의 대미투자 속도를 높여달라는 미 측의 압박이 있지 않느냐는 질문에 \"우리 산업통상부와 미 상무부가 계속 협의를 이어나가고 있다\"고 말했습니다.\n\n강 대사는 조현 외교부 장관의 지시로 귀국해 오는 19일까지 한국에 머무르면서 한미 관계 유관 부처들과 협의를 이어갈 예정입니다.\n\n#쿠팡 #강경화 #외교부\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260715210202WRd",
+      "title": "이 대통령, 김용 재판부·검찰 질타…\"구글 타임라인 입증에도 유죄 선고 해괴\"",
+      "content": "<b>불법 대부엔 \"강압적 변제 독촉도 범죄\"</b>\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715210202WRd_01_i.jpg\" /><span class=\"yna_title\">이재명 대통령, 부처 업무보고 발언</span><span class=\"yna_caption\">(서울=연합뉴스) 한상균 기자 = 이재명 대통령이 15일 청와대 영빈관에서 열린 부처 업무보고에서 발언하고 있다. 2026.7.15 [청와대통신사진기자단] xyz@yna.co.kr</span><span class=\"yna_description\">(서울=연합뉴스) 한상균 기자 = 이재명 대통령이 15일 청와대 영빈관에서 열린 부처 업무보고에서 발언하고 있다. 2026.7.15 [청와대통신사진기자단] xyz@yna.co.kr</span></div>\n이재명 대통령이 김용 전 민주연구원 부원장의 '구글 타임라인' 해명을 인정하지 않은 재판부를 겨냥해 비난했습니다.\n\n이 대통령은 오늘(15일) 자신의 소셜미디어 X에 '검찰의 구글 타임라인 이중잣대, 특검으로 반드시 밝혀야 합니다'란 제목의 이건태 의원의 글을 공유하고, \"유죄의 증거는 무죄의 증거보다 훨씬 더 엄격한 증거능력과 신빙성을 갖춰야 한다\"고 밝혔습니다.\n\n\"의심스러울 때는 피고인의 이익으로 판단해야 한다\"며 이는 \"형사소송법을 배울 때 가장 먼저 가르치는 가장 초보적이고 중요한 원칙\"이라고 강조했습니다.\n\n그러면서 \"유죄의 증거로 법정에서 사용되어 온 구글 타임라인이 특정사건에서만 무죄의 증거는 되지 못한다는 해괴한 결론\"으로 알리바이가 증명됐음에도 \"기소하고 유죄를 선고하는 건 참으로 이해하기 어렵다\"고 항소심 재판부를 지적했습니다.\n\n앞서 이건태 의원은 자신의 소셜미디어 글을 올리고 \"검찰은 '구글 타임라인은 신뢰할 수 없다'는 프레임을 만들었다\"며 \"자신들에게 불리한 증거가 나오자 증거 자체를 부정했다\"고 지적했습니다.\n\n박근혜 국정농단 사건 당시 '구글 타임라인'을 핵심 증거로 활용했지만, 김용 전 부원장 사건에서는 인정하지 않았다며 \"바뀐 것은 검찰의 기준\"이라고 짚었습니다.\n\n이어 \"정치검찰 조작기소 특검은 더 이상 미룰 수 없다\"며 특검의 필요성을 역설했습니다.\n\n한편, 이날 부처 2차 업무보고로 재정경제부, 금융위, 기획예산처 등 경제 부처 보고를 받은 이 대통령은 '불법 대부' 근절에 대한 의지도 내비쳤습니다.\n\n이 대통령은 자신의 소셜미디어에 '불법사금융 특별단속 현황'이 담긴 문서 사진을 올리며 \"불법 고리사채는 철저히 단속하고 엄벌한다\"고 강조했습니다.\n\n\"강압적인 변제 독촉도 범죄\"라고 일갈한 이 대통령은 \"연 20% 초과 이자 대여 시 이자 무효라 이자는 안줘도 되고, 이자 연 60% 초과 대여 약정은 전부 무효라 원금도 반화하지 않아도 된다\"고 적었습니다.\n\n이 대통령은 단속을 위해 힘쓰는 경찰에 감사를 표하고, 시민들의 적극적인 신고를 당부했습니다.\n\n#이재명대통령 #김용 #구글타임라인 #검찰 #형사소송법 #특검 #2차업무보고 #불법대부 #특별단속\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김민아(goldmina@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260716063541yn3",
+      "title": "중기부, 온라인 수출기업 물류비 지원 참여기업 모집",
+      "content": "<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260716063541yn3_01_i.jpg\" /><span class=\"yna_title\">중소벤처기업부 현판</span><span class=\"yna_caption\">[중소벤처기업부 제공. 재판매 및 DB 금지]</span><span class=\"yna_description\">[중소벤처기업부 제공. 재판매 및 DB 금지]</span></div>\n중소벤처기업부가 전자상거래 방식으로 수출하는 중소기업의 물류비 부담을 덜어주는 '온라인 수출 중소기업 물류 지원사업'에 참여할 기업을 다음 달 7일까지 모집한다고 오늘(16일) 밝혔습니다.\n\n이 사업은 온라인 수출기업이 활용하는 풀필먼트(물류 전 과정 대행) 서비스와 부산항만공사가 운영하는 해외 물류센터의 현지 물류 서비스 이용 비용을 지원하는 사업입니다.\n\n민간 물류사를 통해 제품 보관과 포장, 출고, 배송, 반품 등 풀필먼트 서비스를 이용하는 기업에 소요 비용의 최대 70%를 3천만원 한도에서 지원하고, 또 부산항만공사가 운영하는 해외 물류센터를 이용하는 경우에도 관련 비용의 최대 70%를 3천만원 한도에서 지원합니다.\n\n자세한 내용은 고비즈코리아 누리집(kr.gobizkorea.com)에서 확인할 수 있습니다.\n\n심재윤 중기부 글로벌성장정책관은 \"최근 중동전쟁의 여파 등으로 인한 국제물류 환경 악화로 많은 온라인 수출기업의 물류 부담이 눈에 띄게 늘어났다\"며 \"이번 사업이 수출 중소기업들의 이러한 애로를 해결하고 보다 다양한 지역으로 수출길을 개척해 나가는 데 도움이 되기를 기대한다\"고 말했습니다.\n\n\n\n#중소벤처기업부 #중소기업 #물류\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260716063525tz9",
+      "title": "산업부, 아르헨·우루과이 통상협정 추진 준비…공청회 개최",
+      "content": "<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260716063525tz9_01_i.jpg\" /><span class=\"yna_title\">산업통상부 청사</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n정부가 아르헨티나·우루과이와 통상협정을 추진하기 위해 대국민 의견 수렴에 나섭니다.\n\n산업통상부는 오늘(16일) 서울 강남구 무역센터에서 한·아르헨티나, 한·우루과이 통상협정 관련 공청회를 연다고 밝혔습니다.\n\n이번 공청회는 통상조약법 7조에 따른 것으로, 해당 법은 통상조약 체결 계획을 수립하기 전 이해관계자와 관계 전문가의 의견을 수렴하는 공청회를 열도록 규정하고 있습니다.\n\n공청회에는 남미 진출기업과 대외경제정책연구원, 한국무역협회, 대한무역투자진흥공사(코트라), 한국농촌경제연구원 관계자, 지역 전문가 등이 참석해 통상협정의 기대 효과와 고려할 사항에 대한 의견을 공유합니다.\n\n산업부는 아르헨티나·우루과이와의 통상협정을 통해 남미 신흥경제국으로 시장을 다변화하고, 자원·공급망 협력을 확대할 수 있을 것으로 기대하고 있습니다.\n\n아르헨티나는 핵심광물·셰일가스 등 풍부한 자원과 4,700만명의 인구를 보유한 국가로 중남미 국내총생산(GDP) 3위이며, 우루과이는 남미 물류 허브이자 남미 진출 교두보 역할을 할 수 있는 국가입니다.\n\n산업부는 공청회에서 나오는 의견을 종합적으로 고려해 통상협정 추진에 필요한 국내 절차를 진행한다는 방침입니다.\n\n\n\n#산업통상부 #아르헨티나 #우루과이\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716054704ljp",
+      "title": "국토부, UAM 시범운용…'1호 조종사' 내년 선발",
+      "content": "국토교통부가 2028년 도심항공교통, UAM 상용화를 목표로 구체적인 시범운용 모델을 수립했습니다.\n\n시범운용 모델은 관광명소를 순환 운항하는 관광형과 교통 취약지역을 연결하는 지역 연계형, 공항과 도심 거점을 잇는 공항 연계형 등 3가지 유형입니다.\n\n조종사가 탑승해 일출과 일몰 사이에만 운항해야 하며, 하루 편도 10회 이하로 운항 횟수를 제한합니다.\n\n국토부는 올해 '1호 UAM 조종사' 선발 규모와 훈련 시기 등 계획을 수립해 내년 상반기 중 공개 공모를 진행할 예정입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배진솔(sincere@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716054538tdm",
+      "title": "교육교부금·기초연금 개편…재정사업 전면 재검토",
+      "content": "정부가 교육교부금과 기초연금 제도를 전면 개편하겠다고 밝혔습니다.\n\n기획예산처는 어제(15일) 청와대에서 열린 대통령 업무보고에서 이 같은 계획을 포함한 하반기 핵심 추진과제를 발표했습니다.\n\n기획처는 모든 재정사업을 제로 베이스에서 전면 재검토해 재량지출은 15%, 의무지출은 10% 감축할 방침입니다.\n\n내국세에 연동된 교육교부금을 경제 여건과 학령인구 변화율을 고려해 개편하고, 기초연금은 저소득 노인 집중 지원 방식으로 손질합니다.\n\n또 고용보험기금 무급휴일 지급 제외, 건강보험 지역필수의료 보상 연계 등도 함께 추진합니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715230313g5l",
+      "title": "전세대출·총량규제…부동산 금융 해법 '갑론을박'",
+      "content": "[앵커]\n\n'부동산 토론회'의 두 번째 순서로, 금융위원회가 주관하는 부동산 금융정책 토론회가 열렸습니다.\n\n이번 자리에서는 전세자금 대출과 가계대출 총량 규제 등 부동산 금융 정책 전반을 둘러싼 다양한 의견이 오갔습니다.\n\n배시진 기자입니다.\n\n[기자]\n\n금융위원회가 마련한 이번 토론회에 각계 전문가와 시민이 참석한 가운데, 부동산 금융 정책 전반에 대한 집중적인 논의가 이뤄졌습니다.\n\n우선, 전세자금 대출의 경우보다 선별적인 지원이 필요하다는 의견이 제시됐습니다.\n\n&lt;김미루 / 한국개발연구원(KDI) 박사&gt; \"전세 대출이 야기하는 가격 상승 부담이 분명히 있기 때문에…보증부 전세 대출은 취약한 계층에게만 한정해서 지원하는 것이 맞겠다고 생각합니다.\"\n\n청년층 금융지원 확대가 필요하다는 현장의 목소리도 나왔는데,\n\n&lt;최서우 / 20대 청년&gt; \"청년을 위한 다양한 금융지원 정책이 시행되고 있지만, 소득이나 자산 기준 때문에 정작 도움이 필요한 청년들이 혜택을 받지 못하는 경우도 있습니다.\"\n\n대출 규제를 무조건적으로 완화하기보다는 공급과 세제 정책을 두루 활용한 접근이 필요하다는 의견도 있었습니다.\n\n&lt;박선영 / 동국대학교 경제학과 교수&gt; \"의도와 반대로 청년층이 사야 할 집값만 올리고 그 늘어난 대출 한도는 매도자와 개발업자의 이익으로 대부분 귀속된다는 점도 고려를 해야 되는데요. 청년층의 주거복지는 청년 특별 공급이나 청년 공공임대 확대와 같은 공급 정책과 재정 정책을 통해서 접근해야 합니다.\"\n\n가계대출 총량 규제를 놓고서는 현재의 시장 환경에 맞게 제도를 보완할 필요가 있다는 지적이 나왔습니다.\n\n&lt;서영수 / SK증권 상무&gt; \"대출을 할 때 이제는 단지 공적 금융을 이용하는 게 아니라 사적 금융, 가족 간 대여금이 있을 수 있고요. 직장인 대출이 있을 수 있고요. 대출 총량 규제로 어떻게 보면 이 부분을, 막을 수 없다는 거죠.\"\n\n재건축·재개발 이주비 대출을 두고는 규제 대상에서 제외해야 한다는 주장과 대출 규모를 확대해서는 안 된다는 입장이 팽팽히 맞섰습니다.\n\n부동산 정책 토론회는 재정경제부의 세제 분야를 끝으로 사흘간의 일정을 마무리합니다.\n\n이번 토론회에서 오간 의견들을 종합해, 오는 23일 이재명 대통령 주재 대토론회에서 향후 부동산 정책 방향이 논의될 예정입니다.\n\n연합뉴스TV 배시진입니다.\n\n[영상편집 박성규]\n\n#대출 #부동산 #은행 #주담대 #금융\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n배시진(sea@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715230141rqy",
+      "title": "'삼전·닉스' 주담대 한도 죈다…소득 심사 강화",
+      "content": "[앵커]\n\n금융당국이 주택담보대출 한도를 산정하는 소득심사에서 성과급 반영 비율을 줄이기로 했습니다.\n\n삼성전자와 SK하이닉스처럼 대규모 성과급으로 소득이 일시적으로 많아져서 대출 한도가 늘어나는 경우를 방지하겠다는 취지로 풀이됩니다.\n\n이다현 기자입니다.\n\n[기자]\n\n금융위원회가 주택담보대출 한도를 산정하는 소득 심사에서 성과급 반영 비율을 줄이기로 했습니다.\n\n총부채원리금상환비율 DSR 산정 방식을 손질해서, 일시적으로 발생한 대규모 성과급으로 인해 대출 한도가 늘어나는 경우를 방지한다는 겁니다.\n\n수억 원에 달하는 성과급을 받는 삼성전자, SK하이닉스 직원들의 대출 한도가 과도하게 늘어나는 것을 막아, 부동산 가격 상승을 억제하려는 취지로 풀이됩니다.\n\n&lt;이억원 / 금융위원장&gt; \"가계 부채 총량을 안정적으로 관리하고, 고위험 주담대 자본 규제 강화 등을 통해 부동산과 금융의 절연 기조를 이어가겠습니다.\"\n\n성과급 등으로 소득이 갑자기 늘어난 경우 최근 2년 치 소득을 평균 내 산정해 왔는데, 금융당국은 이를 '3년 치 소득'을 평균 내는 방식으로 확대하는 방안을 검토하고 있습니다.\n\n산정 방식이 이처럼 바뀌면 평균 연간 소득이 평탄화되면서 대출 한도가 줄어드는 효과가 나타날 수 있습니다.\n\n금융위원회는 가계부채 총량관리 증가율을 1.5% 이내로 관리하겠다는 목표를 유지했습니다.\n\n명목 국내총생산 대비 가계부채 비율이 하락하더라도, 목표치를 완화하지 않겠다는 방침입니다.\n\n최근 KB국민은행이 주담대 한도를 3억 원으로 대폭 낮추며 '대출 조이기'에 나선 것과 관련해 금융위는 \"국민은행이 자율적으로 정한 것\"이라면서 \"다른 은행은 고려하지 않는 것으로 들었다\"고 부연했습니다.\n\n연합뉴스TV 이다현입니다.\n\n[영상취재 이일환 윤제환 정창훈]\n\n[영상편집 김세나]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715215720IJ0",
+      "title": "금융위, 국민성장펀드 규모 150조→200조 확대",
+      "content": "첨단기술·산업 분야에서 국가 경쟁력을 확보하기 위해 국민성장펀드의 5년간 공급 규모가 기존 150조 원에서 200조 원 규모로 확대됩니다.\n\n금융위원회는 오늘(15) 청와대에서 진행된 대통령 업무보고에서 이 같은 내용을 발표했습니다.\n\n이에 따라 현행 연간 30조 원인 규모가 내년부터 40조 원 수준으로 늘어납니다.\n\n지원 대상도 반도체·인공지능·바이오 등 12개 분야에서 우주항공 등 신규 전략산업까지 확대됩니다.\n\n특히 '3대 메가프로젝트'에 장기·성장자본을 공급할 예정입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260715210320hYe",
+      "title": "시험 중 폭발한 누리호 엔진, 실물 그대로 '최초' 공개",
+      "content": "<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715210320hYe_01_i.jpg\" /><span class=\"yna_title\">누리호 2단용 75톤급 엔진 17A 폭발 당시 모습</span><span class=\"yna_caption\">[한국항공우주연구원 제공]</span><span class=\"yna_description\">[한국항공우주연구원 제공]</span></div>\n한국항공우주연구원(이하 '항우연')은 한국형발사체인 누리호 개발 과정에서 연소시험 중 폭발한 75톤급 엔진 실물을 공개한다고 밝혔습니다.\n\n누리호에 적용된 75톤급 엔진은 그동안 여러 차례 공개된 바 있으나 개발시험 중 폭발로 파손된 엔진을 손상된 형상 그대로 전시하는 것은 이번이 처음입니다.\n\n항우연은 누리호 발사에 앞서 75톤급 엔진 개발 단계에서 1단용 엔진 14기, 2단용 엔진 3기 등 총 17기의 75톤급 엔진을 제작하고 152회, 총 15,091초에 달하는 연소 시험을 수행했습니다.\n\n이번에 나로우주센터 우주과학관 실물전시관에서 공개되는 엔진은 2020년 5월 13일 나로우주센터 엔진 고공 연소시험설비 진공 챔버 내부에서 진행된 시험 중 폭발한 누리호 2단용 75톤급 엔진(17A)입니다.\n\n해당 엔진은 인증시험을 위한 8차 연소시험에서 시동 명령 직후 폭발했습니다.\n\n항우연은 사고 직후 엔진 잔해를 모두 수거해 폭발 원인을 규명하고, 분석 결과를 엔진 설계와 시험 절차 개선에 반영했습니다.\n\n전시품은 폭발 당시의 파손 형상을 최대한 보존해 관람객이 실제 개발시험의 흔적을 확인할 수 있도록 구성했습니다.\n\n다만 엔진 구성품 중 터보펌프는 후속 연구를 위해 별도 보관 중이며, 전시품에는 모형을 적용해 엔진 전체 형상을 유지했습니다.\n\n기술 보안이 필요한 일부 부위는 가림막 처리해 공개합니다.\n\n관람객은 폭발 충격으로 파손된 엔진의 모습을 직접 확인하며, 우주발사체 개발이 수많은 시험과 실패, 분석과 개선의 축적으로 완성되는 과정임을 생생하게 체감할 수 있습니다.\n\n이상철 항우연 원장은 \"우주과학관은 대한민국 우주발사체 개발 역사를 고스란히 느낄 수 있는 공간\"이라며 \"앞으로 우주발사체와 대한민국 우주개발의 역사·현재·미래를 두루 조망할 수 있는 공간으로 거듭날 수 있도록 발전시켜 나가겠다\"라고 밝혔습니다.\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715210320hYe_02_i.jpg\" /><span class=\"yna_title\">시험 중 폭발한 누리호 2단 75톤급 고공엔진(17A) 나로우주센터 우주과학관 전시</span><span class=\"yna_caption\">[한국항공우주연구원 제공]</span><span class=\"yna_description\">[한국항공우주연구원 제공]</span></div>\n\n#누리호 #우주과학관 #실물전시관 #우주발사체 #한국항공우주연구원\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김동혁(dhkim1004@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715205559br1",
+      "title": "유가 급락에…수입물가 3년 6개월 만에 최대 하락",
+      "content": "국제 유가 하락 영향으로 6월 수입물가가 3년 6개월 만에 최대 하락폭을 기록했습니다.\n\n오늘(15일) 한국은행에 따르면 6월 수입물가지수는 161.34로, 지난달보다 4.4% 내려 3년 6개월 만에 가장 큰 낙폭을 보였습니다.\n\n이란 전쟁 발발로 급등했던 국제 유가가 하락하며 수입물가가 하락한 것으로 분석됩니다.\n\n수출물가는 전월과 같은 수준을 유지했습니다.\n\n석탄·석유제품 가격이 하락했지만, 반도체를 비롯한 컴퓨터·전자 및 광학기기 등이 올랐습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n이다현(ok@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715205519sVg",
+      "title": "한은, 기준금리 인상 예고…신현송 발언 수위 주목",
+      "content": "[앵커]\n\n한국은행이 내일(16일) 금융통화위원회를 열고 기준금리를 결정합니다.\n\n사실상 금리 인상이 지난 5월부터 예고돼 왔는데 시장의 관심은 이번 결정 자체보다는 하반기 인상 속도와 폭에 쏠려 있습니다.\n\n김수빈 기자입니다.\n\n[기자]\n\n금리 인상의 필요조건이 모두 갖춰졌다고 평가한 신현송 한국은행 총재.\n\n지난 5월에 이어 최근 국회 업무보고에서도 같은 기조를 재확인했습니다.\n\n&lt;신현송 / 한국은행 총재 (지난 9일)&gt; “목표 수준을 상회하는 물가 오름세, 성장세 개선, 금융 안정 리스크 증대 등을 고려할 때 적절한 시기에 기준금리를 인상할 필요가 있다고 판단됩니다.”\n\n시장에선 이번 금통위가 기준금리를 0.25%포인트 올릴 가능성에 무게를 두고 있습니다.\n\n일부에선 금통위원 전원이 인상에 동의하는 만장일치 결정 가능성도 거론됩니다.\n\n실제 인상이 이뤄지면 2023년 1월 이후 3년 6개월 만의 금리 인상 행보입니다.\n\n반도체 호황으로 성장세가 강해지면서, 연간 성장률이 기존 전망치인 2.6%를 웃돌 가능성이 커졌습니다.\n\n하지만 소비자물가 상승률은 두 달 연속 3%대를 기록했고, 높은 환율과 수도권 집값, 가계대출 증가도 금리를 묶어두기 어렵게 하는 요인입니다.\n\n이번 인상이 사실상 예고된 수순이라면, 시장이 주목하는 건 그다음 수입니다.\n\n금리 전망을 담은 점도표와 신 총재의 발언 수위에 따라, 다음 달에도 연속 인상에 나설지 가늠할 수 있을 전망입니다.\n\n다만 금리 인상은 대출자에겐 곧바로 이자 청구서로 돌아옵니다.\n\n주택담보대출 금리가 0.25%포인트 오르면 차주 한 명당 연간 이자 부담이 평균 약 30만 원 늘어나는 것으로 추산됐습니다.\n\n결국 부작용을 줄이면서 어느 속도로 금리를 올릴지가 하반기 통화정책의 숙제로 남을 전망입니다.\n\n연합뉴스TV 김수빈입니다.\n\n[뉴스리뷰]\n\n#물가 #한국은행 #기준금리 #금통위 #금리인상\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김수빈(soup@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715185824yz8",
+      "title": "흑염소가 두뇌 발달에 도움?…위생 낙제점도 '수두룩'",
+      "content": "[앵커]\n\n내년부터는 개고기 식용이 금지되면서 여름철 대표 보양식인 삼계탕과 함께 염소고기도 몸보신 메뉴로 각광받고 있습니다.\n\n그런데 초복을 앞두고 식품위생당국이 보양식 취급 업체들을 살펴봤더니 일부 위생 관리에 문제가 있었는데요.\n\n소비자 기만 광고들도 적발됐습니다.\n\n곽준영 기자입니다.\n\n[기자]\n\n서울 종로에 있는 보양식집 거리입니다.\n\n흑염소탕이나 닭한마리를 내건 집들이 초복 손님들을 기다립니다.\n\n내년이면 보신탕을 먹을 수 없게 되면서 식당들은 대체 메뉴들로 하나둘씩 간판을 바꿔달고 있습니다.\n\n그렇다면 이러한 보양식 관련 업체들의 위생 상태는 어떨까.\n\n지난 달 식약처가 염소고기와 삼계탕 등 취급업체 2,800여 곳을 점검한 결과 50여 곳에서 관련법을 위반한 것으로 나타났습니다.\n\n식당과 육류 제조·가공 업체를 비롯해 도축, 식육포장 업체까지 살펴봤는데, 위생상 시설이나 작업 방식에서 낙제점인 곳이 수두룩했습니다.\n\n또 직원들이 마스크를 쓰지 않은 채 일을 하거나 매년 받아야할 건강검진을 누락한 사실들이 확인됐습니다.\n\n시중에 유통되는 삼계탕과 염소진액 등을 직접 수거해 검사했더니 기준치 초과 세균이 검출된 제품도 있었습니다.\n\n&lt;정영이 / 식약처 축산물안전정책과장&gt; \"대부분 업체들이 영세하다보니 취급에 있어서 도구나 시설에 대한 관리 부분들이 미흡한 부분이 있었습니다. 위반 업체에 대해선 행정처분과 함께 6개월 이내 각 지방청과 지자체를 통해서 재점검을…\"\n\n온라인 허위·과대광고도 기승을 부리고 있습니다.\n\n염소고기가 마치 두뇌개발에 도움 된다거나 특정 질병 예방·치료에 효과가 있는 것처럼 부풀려 광고한 업체 등 40여 곳이 이번에 적발됐습니다.\n\n식약처는 방송미디어통신위원회 등에 이러한 부당광고 접속 차단을 요청하고, 반복 위반업체에 대한 현장점검에도 나서기로 했습니다.\n\n연합뉴스TV 곽준영입니다.\n\n[영상편집 이유리]\n\n[그래픽 민승환]\n\n[화면제공 식품의약품안전처]\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n곽준영(kwak_ka@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716073008MvC",
+      "title": "[이시각헤드라인] 7월 16일 라이브투데이",
+      "content": "■오늘 다시 장맛비…체감온도 35도 무더위■\n\n오늘 충청과 남부지방 등 곳곳에 장맛비가 내리겠습니다.\n\n폭염경보가 내려진 강원 동해안과 경북 남부는 한낮 체감 35도 안팎의 무더위가 이어지겠습니다.\n\n■미, 닷새 연속 이란 공격…이란 \"협상 계획없다\"■\n\n해상 봉쇄를 진행 중인 미국이 닷새 연속 이란 공격을 단행했습니다.\n\n이란은 미국과 협상할 계획이 없다며 호르무즈 해협을 지키겠다는 의지를 보였습니다\n\n■뉴욕증시 일제 상승…물가 둔화·대형 기술주 강세■\n\n밤 사이 뉴욕증시 3대 지수가  미 도매물가 둔화와 대형 기술주들의 동반 강세에 상승 마감했습니다.\n\n■한은, 오늘 기준금리 결정…0.25%p 인상 전망■\n\n한국은행이 오늘(16일) 금융통화위원회를 열고 기준금리를 결정합니다.\n\n시장은 이번 금통위가 기준금리를 0.25%포인트 올릴 가능성에 무게를 두고 있습니다.\n\n■아르헨티나 월드컵 2연패 도전…스페인과 결승전■\n\n월드컵 2연패에 도전하는 아르헨티나가 잉글랜드에 2-1 역전승을 거두고 2개 대회 연속 결승에 올랐습니다.\n\n아르헨티나와 스페인이 맞붙는 결승전은 오는 20일 새벽 4시에 열립니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n조성흠(makehmm@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260715174017xe9",
+      "title": "홈플러스 기사회생할까…'극적 타결' 운명의 날 [7월 16일 AI PICK]",
+      "content": "파산 위기에 처한 홈플러스 '운명의 날'이 점점 다가오고 있습니다. 장윤기 사건 부실 수사 의혹은 경찰 지휘부를 향하고, 경산 살인사건 피의자의 신상은 오늘부터 공개됩니다. 오늘(16일) 주목해야 할 주요 이슈를 살펴봅니다.\n\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715174017xe9_01_i.jpg\" /><span class=\"yna_title\">입구 막힌 홈플러스</span><span class=\"yna_caption\">[연합뉴스 자료사진]</span><span class=\"yna_description\">[연합뉴스 자료사진]</span></div>\n<b>■ 홈플러스 기사회생 발판…MBK·메리츠 '극적 타결'</b>\n\n파산 벼랑 끝에 몰렸던 홈플러스가 대주주인 MBK파트너스와 최대 채권자 메리츠금융그룹의 극적인 자금 조달 합의로 기사회생의 발판을 마련했습니다.\n\n당초 2,000억 원 규모의 긴급 운영 자금 지원을 두고 팽팽히 맞섰던 양측은 어제(15일) 김병주 MBK 회장이 전액 보증을 서는 조건으로 타협점을 찾았습니다.\n\n이에 따라 메리츠금융이 오늘(16일) 이사회를 열어 추가 자금 지원을 최종 의결하면 파산 위기에 처한 홈플러스의 '급한 불'은 꺼지게 됩니다.\n\n이번 합의로 법원의 회생 절차 폐지 결정에 대한 즉시 항고가 가능해지면서 홈플러스는 최악의 파산 시나리오를 면할 가능성도 생겼습니다.\n\n그동안 대통령실과 국회 등을 오가며 총력 투쟁을 벌여온 마트노조 역시 즉각 환영의 뜻을 밝히며 사태 추이를 예의주시하고 있습니다.\n\n자금 수혈이 완료되는 오늘을 기점으로 홈플러스를 본격적으로 살리기 위한 회생 작업에도 속도가 붙을 것으로 보입니다.\n\n우선 홈플러스는 이번에 유입되는 2,000억 원의 회생 자금으로 밀린 직원 임금 지급은 물론, 물류비와 협력업체 대금 결제 등 당장 시급한 현장 운영비로 즉각 집행 준비에 들어간단 계획입니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715174017xe9_02_i.jpg\" /><span class=\"yna_title\"></span><span class=\"yna_caption\">검찰로 송치되는 장윤기 사건 수사팀장. [사진 연합뉴스]</span><span class=\"yna_description\">검찰로 송치되는 장윤기 사건 수사팀장. [사진 연합뉴스]</span></div>\n<b>■ '장윤기 사건'에 보완 수사권 기로…윗선 향하는 부실 수사 의혹</b>\n\n장윤기 사건을 둘러싼 부실 수사 의혹이 당시 경찰 지휘부를 향하고 있습니다.\n\n경찰청 국가수사본부 특별수사단은 당시 광주 광산경찰서 수사팀이 성범죄 목적 살인을 입증할 핵심 증거를 제대로 확보·보존하지 않았다고 보고 있습니다.\n\n특수단은 장윤기가 범행 전부터 피해자를 일방적으로 알고 있었던 정황도 확인했습니다.\n\n우발적 범행이 아니라 계획 범죄 가능성을 시사하는 대목인데, 당시 수사팀이 이를 제대로 조사했는지 역시 핵심 쟁점이 될 전망입니다.\n\n이번 사건을 계기로 여당 일각에서조차 검찰 보완수사권 완전 폐지에 대한 우려가 제기되는 상황입니다.\n\n이르면 오늘(16일) 국회 법사위 소위에서는 검찰의 보완 수사권을 제한적으로 허용하는 홍기원 민주당 의원 발의안이 직회부될 것으로 전망되고 있습니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715174017xe9_03_i.jpg\" /><span class=\"yna_title\">[연합뉴스TV 15일 방송 화면]</span><span class=\"yna_caption\"></span><span class=\"yna_description\"></span></div>\n<b>■ 경산 살인사건 피의자, 오늘부터 신상 공개</b>\n\n경북 경산에서 함께 술을 마시던 친구를 흉기로 살해한 혐의를 받는 20대 남성의 신상이 오늘부터 공개됩니다.\n\n경북경찰청 신상공개심의위원회는 범행의 잔인성과 공공의 이익 등을 고려해 지난 10일 신상 공개를 결정했고, 피의자의 이의 제기에 따른 유예 기간이 끝나면서 오늘(16일)부터 이름과 나이, 얼굴이 30일간 공개됩니다.\n\n신상 공개와 함께 사건에 대한 관심도 다시 높아질 것으로 보입니다. 경찰은 남은 보강 수사를 이어가고, 이후 검찰 수사와 재판 과정에서도 범행 동기와 경위 등을 둘러싼 공방이 이어질 전망입니다.\n\n※ 'AI PICK'은 연합뉴스TV 디지털이슈팀이 제미나이(Gemini), 그록(Grok), 클로드(Claude) 등 인공지능(AI)을 활용해 국내 주요 뉴스와 온라인 관심도를 종합 분석하고, 키워드 빈도와 이슈 확산 정도를 바탕으로 오늘 주목해야 할 핵심 이슈 3가지를 엄선해 전해드리는 코너입니다.\n\n#홈플러스 #장윤기 #보완수사권 #신상공개\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n문승욱(winnerwook@yna.co.kr)"
+    },
+    {
+      "id": "AKR20260715180916nGL",
+      "title": "[현생탐구] \"이 촉감 못 참죠\"…'손맛' 찾아 동대문 말랑이 거리로",
+      "content": "※ 연합뉴스TV 디지털이슈팀이 세대 공감 시리즈 [현생탐구]를 시작합니다. 현생(現生)은 말 그대로 우리가 지금 살고 있는 '현재의 삶'을 의미합니다. 대학생 인턴기자들과 함께 요즘 청년들이 푹 빠져있는 관심사와 소비, 취미, 문화를 들여다봅니다. '요즘 20대는 뭐하며 시간을 보내지?' '왜 저런 데 돈을 쓰지?' 같은 궁금증을 현장을 누비며 하나씩 풀어봅니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715180916nGL_01_i.jpg\" /><span class=\"yna_title\">빵, 동물 모양의 말랑이</span><span class=\"yna_caption\">[촬영=인턴기자 이나경]</span><span class=\"yna_description\">[촬영=인턴기자 이나경]</span></div>\n\"이건 촉감이 조금 더 쫀득해요.\" \"한 번 만져보세요.\"\n\n지난 13일 오후, 서울 종로구 창신동 동대문 문구·완구거리.\n\n평일 낮인데도 좁은 골목은 촉감 장난감, 이른바 '말랑이'를 직접 만져보려는 2030 청년들로 북적였습니다.\n\n손바닥만 한 스퀴시부터 클레이를 왁스로 코팅한 '왁뿌볼'(왁스 뿌시기 볼) 키보드 키캡 모양의 장난감까지, 오감을 자극하는 소품들이 가게마다 빼곡히 진열되어 있었습니다.\n\n가격은 천차만별이지만 한개당 보통 3천원에서 6천원 사이입니다.\n\n◇ 화면은 주지 못하는 '손맛' 찾아 삼만리\n\n이 골목은 어느새 젊은 세대 사이에서 촉감 장난감의 '성지'로 통합니다.\n\n화면으로는 결코 확인할 수 없는 특유의 '손맛'을 직접 느껴보려는 청년들이 전국 각지에서 '성지 순례'하듯 발걸음을 향합니다.\n\n제주도에서 올라왔다는 대학생 강은비 씨도 그중 한 명입니다. 서울 여행 중 이곳을 필수 코스로 넣었다는 강 씨는 \"온라인에서는 촉감을 알 수 없으니까 겸사겸사 동대문까지 오게 됐다\"고 말했습니다.\n\n이런 변화를 가장 먼저 체감한 건 거리의 상인들입니다.\n\n동묘에서 8년째 만물상을 운영하는 홍진웅 씨는 \"올봄부터 확실히 '말랑이 트렌드'가 시작됐다\"고 말했습니다.\n\n실제로 홍 씨는 기존에 팔던 물건의 비중을 70~80%나 줄이고, 그 빈자리를 말랑이들로 채웠습니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715180916nGL_02_i.jpg\" /><span class=\"yna_title\">다양한 모양의 말랑이</span><span class=\"yna_caption\">[촬영=인턴기자 남윤아]</span><span class=\"yna_description\">[촬영=인턴기자 남윤아]</span></div>\n◇‘액괴 영상’ 보던 꼬마들, 지갑 열기 시작했다\n\n이번 유행을 어릴 적 추억과 연결 짓는 이들도 많습니다.\n\n이날 완구거리를 다섯 번째 찾았다는 대학생 강가림 씨는 \"어릴 때 유튜브로 액체괴물(액괴) 영상을 보며 대리만족하던 세대인데, 이제는 내 돈으로 직접 마음껏 살 수 있는 어른이 되어 이곳을 찾는다\"고 말했습니다.\n\n23살 대학생 신은경 씨도 비슷한 기억을 떠올렸습니다. 신 씨는 \"말랑이에 대한 기억은 스트레스 볼이다. 어렸을 때 스트레스볼을 만지고 놀았다\"고 떠올렸습니다.\n\n제품을 소비하는 주체 자체가 달라졌다는 이야기도 나옵니다.\n\n취준생 이민아 씨는 \"원래는 아이들이 발달 교육용으로 많이 사용했던 제품인데 지금은 오히려 20~30대가 더 많이 찾는 것 같다\"고 짚었습니다.\n<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715180916nGL_03_i.jpg\" /><span class=\"yna_title\">한 시민이 구매한 말랑이, 슬랑이, 왁뿌볼</span><span class=\"yna_caption\">[촬영=인턴기자 이나경]</span><span class=\"yna_description\">[촬영=인턴기자 이나경]</span></div>\n◇ 디지털 홍수 속 아날로그 자극에 빠지다\n\n청년들이 이 자그마한 장난감에 열광하는 가장 큰 이유는 바로 '스트레스 해소'입니다. 31살 직장인 이사랑 씨는 SNS 영상을 보고 말랑이의 세계에 입문했습니다.\n\n이 씨는 \"다른 쪽에 감각을 집중 시키면 스트레스가 해소된다는 내용의 SNS였다\"며 \"스트레스를 조금이라도 해소 시켜 보고자 작년 10월쯤부터 말랑이를 사게 됐다\"고 전했습니다.\n\n스마트폰을 붙잡고 사는 현대인들에게, 이처럼 손끝의 감각에 집중하는 행위가 일종의 '뇌 휴식'이나 '멍 때리기'와 같은 효과를 준다는 해석도 있습니다.\n\n여기에 어릴 적 미디어를 통해 접했던 장난감을 직접 구매할 수 있는 경제적 여유, SNS 중심의 유행, 그리고 오프라인 매장에서만 느낄 수 있는 실물 경험의 가치가 맞물리면서 2030 세대의 발길을 이끌어냈다는 분석도 나옵니다.\n\n오래된 동대문 문구·완구 거리가 청년들의 새로운 문화 소비 공간이자 스트레스 해소처로 부상한 이유입니다.\n\n#동대문 #창신동 #완구거리 #말랑이 #슬랑이 #키캡 #액괴\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n남윤아(yunanam@yna.co.kr)"
+    },
+    {
+      "id": "MYH202607160526051DU",
+      "title": "동국제강 인천공장 고철 더미 화재…20시간여 만에 진화",
+      "content": "지난 14일 오후 7시 18분쯤 동국제강 인천공장 야외 하역장에서 발생한 화재가 20시간여 만에 꺼졌습니다.\n\n인명 피해는 없었지만, 소방당국이 고철 더미 속에서 불을 끄는 데 어려움을 겪으면서 밤샘 진화 작업을 벌였고, 어제(15일) 오후 4시쯤 불을 완전히 껐습니다.\n\n하역장에 쌓여 있던 고철 더미는 건물 3∼4층 높이로, 1만톤 규모에 달하는 것으로 파악됐습니다.\n\n소방당국은 고철 더미에서 불이 시작된 것으로 보고 정확한 화재 원인과 피해 규모를 조사 중입니다.\n\n[화면제공 인천소방본부]\n\n#화재 #동국제강 #고철\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n한웅희(hlight@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716052000kXO",
+      "title": "인권위 전체 부서, 안창호 위원장에 사퇴 촉구",
+      "content": "국가인권위원회 모든 부서에서 안창호 인권위원장의 사퇴를 촉구하는 목소리가 나왔습니다.\n\n인권위 내부 게시판에는 지난 8일부터 각 부서별로 안 위원장의 사퇴를 촉구하는 게시글이 올라오고 있는데, 마지막 1개 부서인 인권교육운영과 직원들도 이같은 내용의 글을 올린 겁니다.\n\n인권교육운영과 측은 \"위원장님이 계셔야 할 곳은 더 이상 국가인권위원회가 아니다\"라는 입장을 밝힌 것으로 알려졌습니다.\n\n안 위원장은 '윤석열 전 대통령의 방어권을 보장해야한다'는 취지의 권고안을 의결하고 서울퀴어축제에 불참하면서 내부 비판을 받아왔습니다.\n\n#인권위 #안창호 #사퇴\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채린(chaerin163@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716051627tJL",
+      "title": "'순직해병 수사기밀 유출' 이시원 전 비서관 구속영장 기각",
+      "content": "순직 해병 사건 관련 수사 내용을 누설한 혐의를 받는 이시원 전 대통령실 공직기강비서관이 구속을 면했습니다.\n\n서울중앙지법은 어제(15일) 이 전 비서관에 대한 특검의 구속영장 청구를 기각했습니다.\n\n법원은 \"범죄 혐의에 대해 다툼의 여지가 있고, 수사 경과와 혐의사실에 대한 피의자의 태도, 다른 재판 출석 상황 등을 비춰볼 때 도망이나 증거 인멸의 우려가 있다고 보기 어렵다\"라며 기각 이유를 설명했습니다.\n\n이 전 비서관은 지난 2023년 9월, 채 상병 순직 사건에 대한 경북경찰청의 압수수색 계획을 해병대 측에 전달한 혐의를 받습니다.\n\n#대통령실 #순직해병 #이시원\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260716051536GyN",
+      "title": "대법, 김건희 '3대 의혹' 24일 선고 생중계",
+      "content": "대법원이 김건희 씨의 도이치모터스 주가조작 등 '3대 의혹' 사건 선고를 생중계하기로 결정했습니다.\n\n대법원 2부는 오는 24일 열리는 김 씨의 자본시장법 위반 등 혐의 사건 선고에 대한 생중계를 허가했다고 어제(15일) 밝혔습니다.\n\n대법원은 오늘(16일) 김 씨 사건을 선고하려고 했지만, 김건희 특검팀이 유죄 판결이 나온 윤석열 전 대통령 무상 여론조사 수수 혐의 1심 판결문을 검토해야 한다며 기일 변경을 요청해 선고를 미뤘습니다.\n\n앞서 김 씨 2심은 무상 여론조사 수수 혐의는 무죄로 판단하고 주가조작 혐의와 통일교 금품 수수 혐의만 인정해 김 씨에게 징역 4년을 선고했습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n안채원(chae1@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715231202aLB",
+      "title": "[포인트뉴스] 외벽 붕괴에 바위 추락…비바람에 피해 속출 外",
+      "content": "각종 사건사고 소식을 전해드리는 포인트뉴스입니다.\n\n▶ 외벽 붕괴에 바위 추락…비바람에 피해 속출\n\n첫번째 소식입니다.\n\n어제부터 오늘 아침까지 강한 바람이 몰아치고 많은 비가 내리면서 수도권 곳곳에 피해가 발생했습니다.\n\n경기 수원의 한 빌라에서는 외벽이 무너져내렸고 서울 서대문구 아파트에서는 바위가 떨어져 차량을 덮치는 사고가 났습니다.\n\n한웅희 기자입니다.\n\n▶ '친구 살인' 내일 신상공개…시체손괴·초동수사 공방\n\n경산에서 친구를 무참히 살해한 혐의로 구속된 20대 남성의 신상정보가 내일(16일) 공개됩니다.\n\n경찰의 초동 대응에 문제를 제기해 온 유족은 시체손괴 혐의를 추가해달라는 고소장을 제출했습니다.\n\n경찰은 유족 측 주장에 대해 사실과 다르다고 반박했습니다.\n\n정지훈 기자입니다.\n\n▶ '모텔 연쇄살인' 김소영, 첫 살인 후 일본 여행\n\n강북 모텔 연쇄살인을 저지른 김소영이 범행 이후 태연히 일본으로 해외여행까지 다녀온 것으로 확인됐습니다.\n\n법원에 제출한 답변서에서 \"신상이 공개돼 꿈이 무너졌다\"고 주장하는 한편 형기를 마친 이후 미래 계획도 밝혔는데요.\n\n안채린 기자의 단독 보도입니다.\n\n▶ 봉사 단체라더니…400억 가로챈 투자사기 일당\n\n가상화폐 투자를 권유해 400억 원대의 금품을 가로챈 일당이 경찰에 붙잡혔습니다.\n\n이들은 봉사단체인 척 피해자들에게 접근해 장기간 친분을 쌓은 뒤 범행을 저질렀습니다.\n\n서승택 기자입니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김성구(sunggu37@yna.co.kr)"
+    },
+    {
+      "id": "AKR2026071523015678F",
+      "title": "'채상병 수사기밀 유출' 이시원 전 비서관 구속영장 기각…\"도망 우려 없어\"",
+      "content": "<div class=\"ynaobject ynaimage ynatype_01\"><img alt=\"\" class=\"yna_img\" src=\"https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR2026071523015678F_01_i.jpg\" /><span class=\"yna_title\">이시원 전 대통령실 공직기강비서관 영장실질심사 출석</span><span class=\"yna_caption\">이시원 전 대통령실 공직기강비서관 영장실질심사 출석\n(서울=연합뉴스) 박동주 기자 = 고(故) 채수근 상병(당시 일병) 순직 사건 기밀 누출 의혹과 관련해 이시원 전 대통령실 공직기강비서관이 15일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.7.15 [공동취재]\npdj6635@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span><span class=\"yna_description\">이시원 전 대통령실 공직기강비서관 영장실질심사 출석\n(서울=연합뉴스) 박동주 기자 = 고(故) 채수근 상병(당시 일병) 순직 사건 기밀 누출 의혹과 관련해 이시원 전 대통령실 공직기강비서관이 15일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.7.15 [공동취재]\npdj6635@yna.co.kr\n(끝)\n\n\n<저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지></span></div>\n순직해병 사건 관련 수사 내용을 누설한 혐의를 받는 이시원 전 대통령실 공직기강비서관이 구속을 면했습니다.\n\n서울중앙지법은 오늘(15일) 이 전 비서관에 대한 특검의 구속영장 청구를 기각했습니다.\n\n법원은 \"범죄 혐의에 대해 다툼의 여지가 있고, 수사 경과와 혐의사실에 대한 피의자의 태도, 다른 재판 출석 상황 등을 비춰볼 때 도망이나 증거 인멸의 우려가 있다고 보기 어렵다\"며 기각 이유를 설명했습니다.\n\n앞서 권창영 2차 종합특검팀은 지난 10일 이 전 비서관에 대해 공무상 비밀누설 혐의로 구속영장을 청구했습니다.\n\n이 전 비서관은 지난 2023년 9월, 채 상병 순직 사건에 대한 경북경찰청의 압수수색 계획을 해병대 측에 전달한 혐의 받습니다.\n\n앞서 해당 의혹을 수사한 해병특검팀은 경북청 수사 상황 보고가 경찰청 국가수사본부를 통해 대통령실·국방부를 거쳐 해병대에 전달된 정황을 포착했습니다.\n\n이를 토대로 이 전 비서관이 윤석열 전 대통령 지시로 수사 정보를 받아 보고했을 가능성을 의심했지만, 수사 기한 부족 등을 이유로 사건을 마무리 짓지 못했습니다.\n\n이후 올해 2월 출범한 종합특검팀이 추가 수사를 거쳐 이 전 비서관에 대한 신병확보에 나선 건데, 채상병 사건 관련 피의자에 대한 첫 구속영장 청구입니다.\n\n#이시원 #종합특검 #채상병 #순직해병 #해병대\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n김선홍(redsun@yna.co.kr)"
+    },
+    {
+      "id": "MYH20260715215332Xbv",
+      "title": "'계엄 정당화 메시지 의혹' 김태효, 구속적부심 청구",
+      "content": "12·3 비상계엄 당시 우방국에 계엄을 정당화하는 메시지를 전달했다는 의혹으로 구속된 김태효 전 대통령실 국가안보실 1차장이 구속 적법성을 다시 판단해달라고 요청했습니다.\n\n김 전 차장은 서울중앙지방법원에 구속적부심사를 청구했습니다.\n\n심문 기일은 내일(16일) 오후 2시 10분으로 정해졌습니다.\n\n앞서 특검팀은 지난 10일 김 전 1차장의 구속영장을 청구했고 법원은 이를 받아들였습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)"
+    },
+    {
+      "id": "MYH202607152147500kx",
+      "title": "김성태, 공소기각 파기 불복…대법원 상고",
+      "content": "쌍방울 그룹의 대북송금 사건과 관련해 제3자 뇌물공여 혐의로 추가 기소 됐다가 항소심에서 공소기각 파기 결정을 받은 김성태 전 쌍방울그룹 회장이 판결에 불복해 상고했습니다.\n\n이로써 대북송금 행위를 둘러싼 ‘이중 기소’ 여부 등 최종 법리 공방은 대법원에서 판가름 날 예정입니다.\n\n앞서 지난 10일 수원고등법원은 김 전 회장의 항소심에서 이중 기소를 인정해 공소 기각을 선고했던 원심 판결을 파기하고 사건을 수원지법으로 돌려보냈습니다.\n\n\n연합뉴스TV 기사문의 및 제보 : 카톡/라인 jebo23\n\n윤솔(solemio@yna.co.kr)"
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604268",
+      "title": "밸류파인더 \"메타랩스, 탈모 환자 데이터 20만명 확보…의료 플랫폼 성장 기대\"",
+      "content": "<div><img alt=\"밸류파인더 &quot;메타랩스, 탈모 환자 데이터 20만명 확보…의료 플랫폼 성장 기대&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2360181.jpg\" /></div>\n\n밸류파인더는 16일 메타랩스가 전국 단위 모발이식 병원 네트워크와 누적 20만명의 탈모 환자 데이터를 기반으로 의료 플랫폼 사업을 확대하고 있다고 평가했다. 탈모 치료 지원과 건강보험 적용 가능성이 지속적으로 논의되는 가운데 병원 컨설팅과 고객관계관리(CRM) 솔루션 수요가 중장기적으로 늘어날 것으로 전망..."
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604266",
+      "title": "키움증권 \"클래시스, 윤준오 신임 대표 선임…남미 재무 과제 해결 기대\"",
+      "content": "<div><img alt=\"키움증권 &quot;클래시스, 윤준오 신임 대표 선임…남미 재무 과제 해결 기대&quot;\" src=\"https://img.etoday.co.kr/crop/200/120/2360180.jpg\" /></div>\n키움증권은 16일 클래시스에 대해 삼성전자 부사장 출신의 윤준오 신임 대표집행임원 선임을 긍정적으로 평가하며, 남미 시장 인수합병(M&amp;A) 이후 발생한 경영 효율화 및 재무 과제들을 해결해 나갈 적임자라고 분석했다. 다만, 국내 매출 성장 둔화를 반영해 목표주가는 기존 7만2000원에서 5만8000원으로 19.4% ..."
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604265",
+      "title": "[오늘의 IR] 에코프로비엠ㆍ한미반도체ㆍ세나테크놀로지 등",
+      "content": "<div><img alt=\"[오늘의 IR] 에코프로비엠ㆍ한미반도체ㆍ세나테크놀로지 등\" src=\"https://img.etoday.co.kr/crop/200/120/2285973.jpg\" /></div>\n\n△세나테크놀로지, 국내외 개인투자자 대상 온라인 IR\n△에코프로비엠, 유상증자 관련 주요 내용 설명 및 투자자 이해 제고\n△유비온, 회사 경영현황 및 재무실적 설명\n△휴맥스홀딩스, 휴맥스와의 합병 관련 주주 이해도 제고\n△이노시뮬레이션, 투자자 이해증진 및 기업가치 제고\n△GRT, 향후 사업내용 설명 및 투자자 이..."
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604143",
+      "title": "레버리지 ETF 출시 이후 장중 500P 이상 출렁인 날 6배 늘었다[초변동성에 갇힌 증시]",
+      "content": "<div><img alt=\"레버리지 ETF 출시 이후 장중 500P 이상 출렁인 날 6배 늘었다[초변동성에 갇힌 증시]\" src=\"https://img.etoday.co.kr/crop/200/120/2360021.jpg\" /></div>삼성전자와 SK하이닉스를 기초자산으로 한 레버리지·인버스 상장지수펀드(ETF) 출시 이후 국내 증시의 변동성이 한층 거칠어졌다. 코스피는 사흘에 한 번꼴로 장중 500포인트 넘게 출렁였고 시가총액도 하루 평균 100조원 넘게 널뛰었다. 노후자금까지 증시에 넣은 개인투자자들은 하루가 멀다고 뒤집히는 주가에 밤잠을..."
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604137",
+      "title": "빚투 청산·예탁금 급감…'정상적 조정 vs 돈맥경화 우려'[초변동성에 갇힌 증시]",
+      "content": "<div><img alt=\"빚투 청산·예탁금 급감…'정상적 조정 vs 돈맥경화 우려'[초변동성에 갇힌 증시]\" src=\"https://img.etoday.co.kr/crop/200/120/2359998.jpg\" /></div>\n\n코스피와 코스닥 시장이 큰 폭의 등락을 거듭하면서 140조원에 육박했던 투자자예탁금이 111조원대까지 급감하고 신용공여 잔고 역시 축소되는 등 증시 대기 자금이 빠르게 빠져나가고 있다.\n\n16일 금융투자협회에 따르면 14일 기준 투자자예탁금은 111조2824억원으로 집계됐다. 이는 올해 최고치인 138조~139조원 수..."
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604134",
+      "title": "‘동전주’ 마스턴리츠, 자산 매각 승부수…하반기 시험대",
+      "content": "<div><img alt=\"‘동전주’ 마스턴리츠, 자산 매각 승부수…하반기 시험대\" src=\"https://img.etoday.co.kr/crop/200/120/2359999.jpg\" /></div>주가 620원…장부상 자산가치 20% 수준100% 임대에도 대출·환헤지에 배당 막혀프랑스 자산 매각해 유동성 부담 해소 추진\n\n\n\n동전주로 전락한 마스턴프리미어리츠가 국내외 부동산 매각을 통한 유동성 확보에 나섰다. 부동산 가치 하락과 대출 상환 부담으로 주주에게 돌아가는 배당이 반 토막 난 가운데 올해 하반기 추..."
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604141",
+      "title": "'화이트해커 기업' 엔키화이트햇, 순손실에도 1500억 몸값 넘나 [IPO 엑스레이]",
+      "content": "<div><img alt=\"'화이트해커 기업' 엔키화이트햇, 순손실에도 1500억 몸값 넘나 [IPO 엑스레이]\" src=\"https://img.etoday.co.kr/crop/200/120/2360006.jpg\" /></div>\n\n[편집자 주] 국내 기업공개(IPO) 시장 문턱이 갈수록 높아지는 추세다. 과거처럼 ‘성장성’만으로 시장 선택을 받던 시대는 지났다. 투자자들은 이제 기술적 실체와 지속 가능한 재무 기반을 냉정하게 살핀다. 상장을 추진하는 기업들은 거시경제 불확실성 속에 실적과 성과를 입증해야 하는 시험대에 섰다. 본지는 상..."
+    },
+    {
+      "id": "https://www.etoday.co.kr/news/view/2604078",
+      "title": "7월 금통위 '결전의 날'⋯통화정책 '긴축 신호탄' 쏘아올릴 듯",
+      "content": "<div><img alt=\"7월 금통위 '결전의 날'⋯통화정책 '긴축 신호탄' 쏘아올릴 듯\" src=\"https://img.etoday.co.kr/crop/200/120/2339113.jpg\" /></div>16일 오전 7월 통화정책방향 결정회의 개최 현재 기준금리 2.5%⋯0.25%p 인상 유력넥스트스텝에도 관심⋯신 총재 입에 쏠린 눈\n\n\n결전의 날이 밝았다. 한국은행이 오늘(16일) 오전 금융통화위원회 정례회의를 열고 기준금리를 결정한다. 최근 우리나라 물가상승률이 3%를 넘어서고 환율 상승세가 지속되면서 대다수 전문가..."
     }
   ],
   "analyses": [
@@ -734,6 +775,11 @@
       "generated_at": "2026-07-14T22:54:08.988259",
       "item_count": 50,
       "analysis": "[시장 요약 진단]\n내용: 내일 장은 대외 안도감(달러 약세·유가 안정·수출 실적 확인)이 지수 하방을 지지하는 가운데, 국내 고유 변수(부동산 세제 불확실성·레버리지 ETF 수급 벽·은행 대출 규제)가 섹터별 차별화를 심화시키는 교차 장세가 예상됨. 미국 CPI 둔화로 원·달러 NDF 1,300원대 진입, 6월 수출물량지수 역대 최대치 기록 등 펀더멘털 확인됐으나, 대장주 레버리지 ETF 환매 압력과 부동산·가계대출 규제가 내수·건설·금융주에 하방 압력 가함. 여당 지도부 안정화에 따른 정책 드라이브는 중장기 모멘텀 공급하나 즉각적 수급 유입보다는 정책 불확실성 프리미엄 해소 차원 접근이 합리적.\n\n--------------------------------------------------\n[핵심 이슈 분석]\n이슈 1: 달러 약세·원화 강세 전환\n- 시장 영향도: 상🟢\n- 예상 방향성: 긍정적🟢\n\n이슈 2: 반도체 수출 물량 폭증·정부 성장률 3.0% 상향\n- 시장 영향도: 상🟢\n- 예상 방향성: 긍정적🟢\n\n이슈 3: 레버리지 ETF 수급 역류·대장주 조정 장기화\n- 시장 영향도: 상🟢\n- 예상 방향성: 부정적🔴\n\n이슈 4: 부동산 세제 정상화 드라이브·대출 규제 강화\n- 시장 영향도: 중🟡\n- 예상 방향성: 부정적🔴\n\n--------------------------------------------------\n[섹터 및 종목별 영향]\n1️⃣ 반도체 대장주 및 후방 밸류체인\n- 예상 방향: 변동성 확대🟡\n- 관련 종목군: 삼성전자, SK하이닉스, SK텔레콤, 원익IPS, 테스, 리노공업, 동진쎄미켐, 하나마이크론, 한미반도체, 넥스틴\n- 투자 대응: 레버리지 ETF 수급 벽 확인 전까지 공격적 추격 매수 자제, 2분기 실적 가이던스·외국인 순매수 규모 확인 후 비중 확대. 반등 시 일부 차익실현 후 후방 밸류체인(장비·소재·패키징)으로 자금 순환.\n\n2️⃣ 항공·해운·정유·화학\n- 예상 방향: 강세🟢\n- 관련 종목군: SK이노베이션, S-Oil, 대한항공, HMM, 팬오션, 제주항공\n- 투자 대응: 원화 강세·유가 안정·화물 운임 강세 삼중 수혜, 단기 트레이딩 비중 확대 유효.\n\n3️⃣ 은행·인터넷은행\n- 예상 방향: 변동성 확대🟡\n- 관련 종목군: KB, 신한, 하나, 우리, 카카오뱅크, BNK, DGB, JB금융지주\n- 투자 대응: 가계대출 규제로 단기 NIM·성장 둔화 우려로 대형은행 언더퍼폼 가능성, 인뱅-지방은행 기업금융 동맹 수혜주(카카오뱅크·지방금융지주) 중장기 관점 분할 매수.\n\n4️⃣ 건설·건자재·리츠\n- 예상 방향: 약세🔴\n- 관련 종목군: 현대건설, DL이앤씨, GS건설, 한국토지신탁, 우리자산신탁, 시멘트주\n- 투자 대응: 세제 개편 불확실성 해소 전까지 관망, 8월 임시국회 이후 입법 향방 확인 후 선별 접근.\n\n--------------------------------------------------\n[내일 장 전략 한 줄 요약]\n전략: 달러 약세·수출 호조라는 거시 순풍을 타고 반도체 후방 밸류체인과 항공·은행(기업금융 동맹주) 중심 순환매로 대응하되, 대장주 레버리지 벽과 부동산·가계대출 규제 역풍에 노출된 건설·대형은행은 비중 축소·관망으로 선회한다."
+    },
+    {
+      "generated_at": "2026-07-15T22:55:44.595678",
+      "item_count": 41,
+      "analysis": "[시장 요약 진단]\n내용: 내일 한국 증시는 7월 금통위 25bp 인상 확정 후 이창용 총재의 포워드 가이던스 해석에 따라 섹터별 희비가 갈리는 '해석의 장세'가 예상된다. 뉴욕증시 강세와 수입물가 하락은 우호적이나 중동 리스크, 한은 매파 스탠스 지속 가능성, 예탁금·신용잔고 감소 등 '돈맥경화' 신호로 적극적 추격 매수보다 관망 속 종목별 차별화 대응 심리가 지배적일 전망이다.\n\n--------------------------------------------------\n[핵심 이슈 분석]\n이슈 1: 7월 금통위 기준금리 인상 및 이창용 총재 포워드 가이던스\n- 시장 영향도: 상🟢\n- 예상 방향성: 중립🟡\n\n이슈 2: 정책 자금 200조 원 확대 및 12대 전략기술·우주항공 육성\n- 시장 영향도: 상🟢\n- 예상 방향성: 긍정적🟢\n\n이슈 3: DSR 산정 강화 및 긴축 재정(재량지출 15% 감축)\n- 시장 영향도: 중🟡\n- 예상 방향성: 부정적🔴\n\n이슈 4: 한일·한미 통상 마찰 잔존(사도광산·쿠팡 이슈)\n- 시장 영향도: 중🟡\n- 예상 방향성: 부정적🔴\n\n--------------------------------------------------\n[섹터 및 종목별 영향]\n1️⃣ 은행·보험\n- 예상 방향: 강세🟢\n- 관련 종목군: 은행, 보험\n- 투자 대응: 금리 피크아웃 확인 시 순이자마진 확대·자산건전성 개선으로 즉각 반등 예상, 적극 비중 확대\n\n2️⃣ 반도체 장비·소재·AI 인프라·우주항공·방산 C4I\n- 예상 방향: 강세🟢\n- 관련 종목군: 반도체 장비·소재, AI 인프라(데이터센터·전력기기), 우주항공·UAM 부품(KAI, 한화시스템, LIG넥스원, 베셀에어로스페이스), 방산 C4I·통신·시뮬레이션\n- 투자 대응: 정책 펀드 200조 원 실질 자금 수혜 가시적, 중장기 수급 기반 확보로 비중 확대\n\n3️⃣ 고배당·저PBR 리츠·유틸리티\n- 예상 방향: 강세🟢\n- 관련 종목군: 고배당·저PBR 리츠·유틸리티\n- 투자 대응: 펀더멘털 대비 과도한 낙폭 과대, 금리 인상 마무리 시 안도 랠리 기대, 적극 비중 확대\n\n4️⃣ 건설·건자재·내수 유통·중소형 증권\n- 예상 방향: 약세🔴\n- 관련 종목군: 건설·건자재·내수 유통·중소형 증권(PF 익스포저)\n- 투자 대응: DSR 강화·긴축 재정 직격탄으로 수요 위축, 선별적 접근·관망 필요\n\n--------------------------------------------------\n[내일 장 전략 한 줄 요약]\n전략: 금통위 ‘포워드 가이던스’ 해석에 따른 금리 민감주·정책 수혜주 간 희비 교차 속, 유동성 위축 국면에서 지수 베팅보다 펀더멘털·정책 모멘텀 겸비한 개별 종목 선별 대응이 필수적이다."
     }
   ]
 }
