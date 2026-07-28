@@ -47,3 +47,7 @@ def send_telegram_long(message: str, parse_mode=None, max_len: int = 4000) -> No
 
     for chunk in chunks:
         send_telegram_message_sync(chunk, parse_mode=parse_mode)
+
+
+if __name__ == "__main__":
+    # send_telegram_message_sync("정보가 그렇게 좋지 않아 코드 수정 후 다시 보내겠슴")
