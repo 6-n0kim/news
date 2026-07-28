@@ -1,46 +1,46 @@
-name: RSS Runner
+# name: RSS Runner
 
-on:
-  schedule:
-    # - cron: "*/30 * * * *" # 매 30분(UTC 기준)
-    - cron: "1 22 * * 1-5"   # 08:00 KST
-    # - cron: "0 11 * * *"  # 20:00 KST
-  workflow_dispatch: {} # 수동 실행 버튼
+# on:
+#   schedule:
+#     # - cron: "*/30 * * * *" # 매 30분(UTC 기준)
+#     - cron: "1 22 * * 1-5"   # 08:00 KST
+#     # - cron: "0 11 * * *"  # 20:00 KST
+#   workflow_dispatch: {} # 수동 실행 버튼
 
-permissions:
-  contents: write # state.json 커밋하려면 필요
+# permissions:
+#   contents: write # state.json 커밋하려면 필요
 
-jobs:
-  run:
-    runs-on: ubuntu-latest
-    env:
-      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+# jobs:
+#   run:
+#     runs-on: ubuntu-latest
+#     env:
+#       NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+#       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+#       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+#       TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID }}
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
+#       - name: Set up Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: "3.13"
 
-      - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+#       - name: Install deps
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install -r requirements.txt
 
-      - name: Run
-        run: |
-          python -m app.main
+#       - name: Run
+#         run: |
+#           python -m app.main
 
-      - name: Commit state if changed
-        run: |
-          git config user.name "김준영"
-          git config user.email "1090jun@gmail.com"
-          git add app/state.json
-          git diff --staged --quiet || git commit -m "$(date +%Y-%m-%d) 뉴스 분석"
-          git push
+#       - name: Commit state if changed
+#         run: |
+#           git config user.name "김준영"
+#           git config user.email "1090jun@gmail.com"
+#           git add app/state.json
+#           git diff --staged --quiet || git commit -m "$(date +%Y-%m-%d) 뉴스 분석"
+#           git push
 
